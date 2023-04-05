@@ -35,7 +35,7 @@ The expected structure of files is:
     │   ├── helper_metrics.py
     │   └── helper_model.py
     ├── main.py
-    └── test_KGETCDA.py
+    └── test.py
 ```
 
 ## Dataset
