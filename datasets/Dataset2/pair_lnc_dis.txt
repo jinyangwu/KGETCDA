@@ -1,0 +1,3280 @@
+a1bg-as1	breast cancer
+a1bg-as1	hepatocellular carcinoma
+a1bg-as1	nasopharynx carcinoma
+a1bg-as1	thyroid cancer
+ac002116.8	hepatocellular carcinoma
+ac002310.12	esophageal cancer
+ac002331.1	colorectal cancer
+ac002331.1	esophageal cancer
+ac002331.1	thyroid cancer
+ac003005.2	esophageal cancer
+ac003005.2	thyroid cancer
+ac003092.1	esophageal cancer
+ac003092.1	glioblastoma
+ac003092.1	head and neck squamous cell carcinoma
+ac003092.1	hepatocellular carcinoma
+ac003104.1	thyroid cancer
+ac005062.2	esophageal cancer
+ac005062.2	thyroid cancer
+ac005082.12	esophageal cancer
+ac005082.12	lung adenocarcinoma
+ac005082.12	thyroid cancer
+ac005083.1	colorectal cancer
+ac005083.1	esophageal cancer
+ac005083.1	lung adenocarcinoma
+ac005083.1	thyroid cancer
+ac005154.6	esophageal cancer
+ac005307.3	esophageal cancer
+ac005307.3	thyroid cancer
+ac005532.5	esophageal cancer
+ac005532.5	thyroid cancer
+ac005537.2	thyroid cancer
+ac005540.3	esophageal cancer
+ac005540.3	thyroid cancer
+ac005550.4	lung cancer
+ac005550.4	urothelial cancer
+ac005562.1	esophageal cancer
+ac005562.1	esophagus squamous cell carcinoma
+ac006129.2	esophageal cancer
+ac006262.5	esophageal cancer
+ac006262.5	hepatocellular carcinoma
+ac006262.5	thyroid cancer
+ac007038.7	esophageal cancer
+ac007038.7	osteoarthritis
+ac007246.3	alzheimer disease
+ac007246.3	esophageal cancer
+ac007566.10	esophageal cancer
+ac007566.10	osteoarthritis
+ac007682.1	esophageal cancer
+ac007682.1	thyroid cancer
+ac009299.3	esophageal cancer
+ac009299.3	thyroid cancer
+ac009501.4	thyroid cancer
+ac009948.5	esophageal cancer
+ac009948.5	esophagus squamous cell carcinoma
+ac010226.4	esophageal cancer
+ac010226.4	thyroid cancer
+ac010729.1	thyroid cancer
+ac011893.3	esophageal cancer
+ac012065.7	chronic lymphocytic leukemia
+ac012146.7	gastric cancer
+ac012360.4	esophageal cancer
+ac012360.4	thyroid cancer
+ac015849.16	esophageal cancer
+ac016683.6	lung cancer
+ac016747.3	esophageal cancer
+ac016747.3	type 1 diabetes mellitus
+ac025171.1	esophageal cancer
+ac025171.1	glioblastoma multiforme
+ac025171.1	glioma
+ac025171.1	thyroid cancer
+ac034220.3	esophageal cancer
+ac058791.1	colon cancer
+ac058791.1	esophageal cancer
+ac062029.1	esophageal cancer
+ac069277.2	esophageal cancer
+ac069277.2	thyroid cancer
+ac074117.10	esophageal cancer
+ac078852.1	esophageal cancer
+ac079767.4	esophageal cancer
+ac079767.4	thyroid cancer
+ac079767.4	tuberculosis
+ac079922.3	esophageal cancer
+ac083843.1	prostate cancer
+ac084219.4	esophageal cancer
+ac090587.2	esophageal cancer
+ac091729.9	esophageal cancer
+ac091878.1	esophageal cancer
+ac092535.3	astrocytoma
+ac093323.3	esophageal cancer
+ac093375.1	esophageal cancer
+ac093642.3	thyroid cancer
+ac093642.3	type 1 diabetes mellitus
+ac097662.2	esophageal cancer
+ac104389.28	gastric cancer
+ac105760.2	esophageal cancer
+ac107072.2	thyroid cancer
+ac108004.3	esophageal cancer
+ac108142.1	esophageal cancer
+ac108142.1	thyroid cancer
+ac108488.4	esophageal cancer
+ac113189.5	esophageal cancer
+ac135048.13	esophageal cancer
+ac156455.1	clear cell renal cell carcinoma
+ac156455.1	esophageal cancer
+ac156455.1	thyroid cancer
+af001548.5	alzheimer disease
+af001548.5	esophageal cancer
+af127936.7	thyroid cancer
+af131215.9	osteoarthritis
+aj271736.10	esophageal cancer
+alms1-it1	esophageal cancer
+alms1-it1	lung adenocarcinoma
+ap000662.4	thyroid cancer
+ap001046.5	esophageal cancer
+ap001065.15	esophageal cancer
+ap001372.2	clear cell renal cell carcinoma
+ap001469.9	esophageal cancer
+ap006222.2	esophageal cancer
+apcdd1l-as1	astrocytoma
+asb16-as1	cervical cancer
+asb16-as1	esophageal cancer
+asb16-as1	gastric cancer
+asb16-as1	glioma
+asb16-as1	hepatocellular carcinoma
+asb16-as1	lung non small cell carcinoma
+asb16-as1	osteosarcoma
+ash1l-as1	multiple myeloma
+ash1l-as1	thyroid cancer
+baiap2-as1	cervical squamous cell carcinoma
+baiap2-as1	hepatocellular carcinoma
+bola3-as1	glioblastoma multiforme
+bola3-as1	glioma
+bx322557.10	thyroid cancer
+bzrap1-as1	hepatocellular carcinoma
+c17orf76-as1	triple negative breast cancer
+c1rl-as1	esophageal cancer
+c1rl-as1	glioblastoma
+c1rl-as1	sars cov2
+cbr3-as1	breast cancer
+cbr3-as1	colorectal cancer
+cbr3-as1	esophageal cancer
+cbr3-as1	esophagus squamous cell carcinoma
+cbr3-as1	gastric cancer
+cbr3-as1	glioma
+cbr3-as1	hepatocellular cancer
+cbr3-as1	hepatocellular carcinoma
+cbr3-as1	lung non small cell carcinoma
+cbr3-as1	osteosarcoma
+cbr3-as1	prostate cancer
+cbr3-as1	retinoblastoma
+cbr3-as1	rheumatoid arthritis
+cbr3-as1	stomach cancer
+cbr3-as1	urinary bladder cancer
+ccat1	acute myeloid leukemia
+ccat1	breast cancer
+ccat1	cervical cancer
+ccat1	cholangiocarcinoma
+ccat1	colon cancer
+ccat1	colorectal cancer
+ccat1	endometrial cancer
+ccat1	endometrial carcinoma
+ccat1	epithelial ovarian cancer
+ccat1	esophageal cancer
+ccat1	esophagus squamous cell carcinoma
+ccat1	gallbladder cancer
+ccat1	gastric cancer
+ccat1	glioma
+ccat1	head and neck squamous cell carcinoma
+ccat1	hepatocellular cancer
+ccat1	hepatocellular carcinoma
+ccat1	intrahepatic cholangiocarcinoma
+ccat1	kidney cortex necrosis
+ccat1	laryngeal squamous cell carcinoma
+ccat1	lung adenocarcinoma
+ccat1	lung cancer
+ccat1	lung non small cell carcinoma
+ccat1	lung squamous cell carcinoma
+ccat1	melanoma
+ccat1	multiple myeloma
+ccat1	nasopharyngeal carcinoma
+ccat1	nasopharynx carcinoma
+ccat1	neuropathic pain
+ccat1	oral squamous cell carcinoma
+ccat1	osteosarcoma
+ccat1	ovarian cancer
+ccat1	pancreatic cancer
+ccat1	pancreatic ductal adenocarcinoma
+ccat1	papillary thyroid carcinoma
+ccat1	pre eclampsia
+ccat1	prostate cancer
+ccat1	renal cell carcinoma
+ccat1	retinoblastoma
+ccat1	stomach cancer
+ccat1	triple negative breast cancer
+ccat1	urinary bladder cancer
+cdkn2b-as1	acute ischemic stroke
+cdkn2b-as1	acute lymphoblastic leukemia
+cdkn2b-as1	acute myeloid leukemia
+cdkn2b-as1	alzheimer disease
+cdkn2b-as1	angiogenesis
+cdkn2b-as1	arteriosclerotic cardiovascular disease
+cdkn2b-as1	astrocytoma
+cdkn2b-as1	atherosclerosis
+cdkn2b-as1	autism spectrum disorder
+cdkn2b-as1	basal cell carcinoma
+cdkn2b-as1	bladder urothelial carcinoma
+cdkn2b-as1	breast cancer
+cdkn2b-as1	cardiovascular system disease
+cdkn2b-as1	cervical cancer
+cdkn2b-as1	cholangiocarcinoma
+cdkn2b-as1	chronic myeloid leukemia
+cdkn2b-as1	colon cancer
+cdkn2b-as1	colorectal cancer
+cdkn2b-as1	coronary artery disease
+cdkn2b-as1	coronary atherosclerotic heart disease
+cdkn2b-as1	coronary heart disease
+cdkn2b-as1	crohn disease
+cdkn2b-as1	diabetes mellitus
+cdkn2b-as1	diabetic nephropathy
+cdkn2b-as1	diabetic retinopathy
+cdkn2b-as1	endometrial cancer
+cdkn2b-as1	endometriosis
+cdkn2b-as1	epithelial ovarian cancer
+cdkn2b-as1	esophageal cancer
+cdkn2b-as1	esophagus squamous cell carcinoma
+cdkn2b-as1	gallbladder cancer
+cdkn2b-as1	gastric cancer
+cdkn2b-as1	glioblastoma
+cdkn2b-as1	glioma
+cdkn2b-as1	head and neck squamous cell carcinoma
+cdkn2b-as1	hepatocellular cancer
+cdkn2b-as1	hepatocellular carcinoma
+cdkn2b-as1	hypertension
+cdkn2b-as1	intracranial aneurysm
+cdkn2b-as1	intrahepatic cholangiocarcinoma
+cdkn2b-as1	laryngeal squamous cell carcinoma
+cdkn2b-as1	liver cancer
+cdkn2b-as1	liver fibrosis
+cdkn2b-as1	lung adenocarcinoma
+cdkn2b-as1	lung cancer
+cdkn2b-as1	lung non small cell carcinoma
+cdkn2b-as1	melanoma
+cdkn2b-as1	multiple myeloma
+cdkn2b-as1	multiple sclerosis
+cdkn2b-as1	nasopharyngeal carcinoma
+cdkn2b-as1	nasopharynx carcinoma
+cdkn2b-as1	neuroblastoma
+cdkn2b-as1	oral squamous cell carcinoma
+cdkn2b-as1	osteoarthritis
+cdkn2b-as1	osteosarcoma
+cdkn2b-as1	pancreatic cancer
+cdkn2b-as1	papillary thyroid carcinoma
+cdkn2b-as1	parkinson disease
+cdkn2b-as1	prostate cancer
+cdkn2b-as1	renal cell carcinoma
+cdkn2b-as1	renal clear cell carcinoma
+cdkn2b-as1	retinoblastoma
+cdkn2b-as1	stomach cancer
+cdkn2b-as1	t cell acute lymphoblastic leukemia
+cdkn2b-as1	thyroid cancer
+cdkn2b-as1	triple negative breast cancer
+cdkn2b-as1	urinary bladder cancer
+cecr7	esophageal cancer
+cecr7	gastric cancer
+cecr7	glioblastoma multiforme
+cecr7	hepatocellular cancer
+cecr7	hepatocellular carcinoma
+cecr7	thyroid cancer
+cers6-as1	breast cancer
+cers6-as1	esophageal cancer
+cers6-as1	glioblastoma
+cers6-as1	pancreatic cancer
+cers6-as1	pancreatic ductal adenocarcinoma
+col4a2-as2	head and neck squamous cell carcinoma
+cox10-as1	esophageal cancer
+crnde	acute myeloid leukemia
+crnde	bladder urothelial carcinoma
+crnde	breast cancer
+crnde	cervical cancer
+crnde	cholangiocarcinoma
+crnde	chronic lymphocytic leukemia
+crnde	clear cell renal cell carcinoma
+crnde	colon cancer
+crnde	colorectal cancer
+crnde	colorectal carcinoma
+crnde	coronary artery disease
+crnde	esophageal cancer
+crnde	gallbladder cancer
+crnde	gallbladder carcinoma
+crnde	gastric cancer
+crnde	glioblastoma
+crnde	glioma
+crnde	head and neck squamous cell carcinoma
+crnde	hepatic carcinoma
+crnde	hepatoblastoma
+crnde	hepatocellular carcinoma
+crnde	intrahepatic cholangiocarcinoma
+crnde	kidney cortex necrosis
+crnde	liver cancer
+crnde	lung adenocarcinoma
+crnde	lung non small cell carcinoma
+crnde	melanoma
+crnde	multiple myeloma
+crnde	oral squamous cell carcinoma
+crnde	osteoarthritis
+crnde	osteosarcoma
+crnde	ovarian cancer
+crnde	pancreatic cancer
+crnde	pancreatic ductal adenocarcinoma
+crnde	papillary thyroid carcinoma
+crnde	pre eclampsia
+crnde	prostate cancer
+crnde	sepsis
+crnde	stomach cancer
+crnde	thyroid cancer
+crnde	tongue squamous cell carcinoma
+crnde	urinary bladder cancer
+cta-217c2.1	prostate cancer
+cta-445c9.14	esophageal cancer
+ctb-131b5.2	esophageal cancer
+ctb-89h12.4	esophageal cancer
+ctb-89h12.4	esophagus squamous cell carcinoma
+ctb-89h12.4	multiple sclerosis
+ctb-89h12.4	prostate cancer
+ctc-246b18.8	esophageal cancer
+ctc-246b18.8	thyroid cancer
+ctc-308k20.1	esophageal cancer
+ctc-338m12.2	thyroid cancer
+ctc-338m12.3	prostate cancer
+ctc-338m12.3	renal cell carcinoma
+ctc-338m12.3	triple negative breast cancer
+ctc-459f4.3	alzheimer disease
+ctc-497e21.4	gastric cancer
+ctd-2012k14.7	thyroid cancer
+ctd-2017d11.1	esophageal cancer
+ctd-2020k17.1	gastric cancer
+ctd-2020k17.1	ovarian cancer
+ctd-2020k17.1	thyroid cancer
+ctd-2047h16.4	thyroid cancer
+ctd-2196e14.9	esophageal cancer
+ctd-2201e18.3	esophageal cancer
+ctd-2201e18.3	thyroid cancer
+ctd-2292p10.4	esophageal cancer
+ctd-2292p10.4	thyroid cancer
+ctd-2337i7.1	esophageal cancer
+ctd-2337i7.1	thyroid cancer
+ctd-2377d24.6	gastric cancer
+ctd-2377d24.6	pancreatic cancer
+ctd-2377d24.6	pancreatic ductal adenocarcinoma
+ctd-2516f10.2	esophageal cancer
+ctd-2540l5.5	thyroid cancer
+ctd-2561j22.5	esophageal cancer
+ctd-2561j22.5	thyroid cancer
+ctd-2574d22.4	esophageal cancer
+ctd-2574d22.4	hepatocellular carcinoma
+ctd-2574d22.4	osteoarthritis
+ctd-2619j13.14	esophageal cancer
+ctd-3092a11.2	myocardial infarction
+dancr	acute myeloid leukemia
+dancr	astrocytoma
+dancr	breast cancer
+dancr	cervical cancer
+dancr	cervical squamous cell carcinoma
+dancr	cholangiocarcinoma
+dancr	colon cancer
+dancr	colorectal cancer
+dancr	colorectal carcinoma
+dancr	endometrial cancer
+dancr	endometrial carcinoma
+dancr	esophageal cancer
+dancr	esophagus squamous cell carcinoma
+dancr	gastric cancer
+dancr	glioblastoma
+dancr	glioma
+dancr	hepatocellular cancer
+dancr	hepatocellular carcinoma
+dancr	kidney cortex necrosis
+dancr	lung adenocarcinoma
+dancr	lung cancer
+dancr	lung non small cell carcinoma
+dancr	multiple myeloma
+dancr	nasopharyngeal carcinoma
+dancr	nasopharynx carcinoma
+dancr	oral squamous cell carcinoma
+dancr	osteoarthritis
+dancr	osteoporosis
+dancr	osteosarcoma
+dancr	ovarian cancer
+dancr	pancreatic cancer
+dancr	pancreatic ductal adenocarcinoma
+dancr	papillary thyroid carcinoma
+dancr	prostate cancer
+dancr	renal cell carcinoma
+dancr	retinoblastoma
+dancr	stomach cancer
+dancr	tongue squamous cell carcinoma
+dancr	triple negative breast cancer
+dancr	urinary bladder cancer
+dapk1-it1	esophageal cancer
+dgcr5	astrocytoma
+dgcr5	breast cancer
+dgcr5	cervical cancer
+dgcr5	clear cell renal cell carcinoma
+dgcr5	colorectal cancer
+dgcr5	endometrial carcinoma
+dgcr5	esophageal cancer
+dgcr5	esophagus squamous cell carcinoma
+dgcr5	gastric cancer
+dgcr5	glioblastoma
+dgcr5	glioblastoma multiforme
+dgcr5	glioma
+dgcr5	hepatocellular carcinoma
+dgcr5	laryngeal cancer
+dgcr5	lung adenocarcinoma
+dgcr5	lung cancer
+dgcr5	lung non small cell carcinoma
+dgcr5	pancreatic cancer
+dgcr5	pancreatic ductal adenocarcinoma
+dgcr5	papillary thyroid carcinoma
+dgcr5	paraganglioma
+dgcr5	pheochromocytoma
+dgcr5	prostate cancer
+dgcr5	renal clear cell carcinoma
+dgcr5	thyroid cancer
+dgcr5	triple negative breast cancer
+dgcr5	urinary bladder cancer
+dhrs4-as1	clear cell renal cell carcinoma
+dhrs4-as1	pancreatic cancer
+dhrs4-as1	thyroid cancer
+dleu2	astrocytoma
+dleu2	cervical cancer
+dleu2	chronic lymphocytic leukemia
+dleu2	chronic myeloid leukemia
+dleu2	clear cell renal cell carcinoma
+dleu2	endometrial cancer
+dleu2	esophageal cancer
+dleu2	esophagus squamous cell carcinoma
+dleu2	gastric cancer
+dleu2	glioblastoma multiforme
+dleu2	glioma
+dleu2	hepatocellular carcinoma
+dleu2	laryngeal cancer
+dleu2	laryngeal squamous cell carcinoma
+dleu2	leukemia
+dleu2	lung non small cell carcinoma
+dleu2	multiple myeloma
+dleu2	osteosarcoma
+dleu2	ovarian cancer
+dleu2	pancreatic cancer
+dleu2	thyroid cancer
+dlg1-as1	astrocytoma
+dlg1-as1	cervical cancer
+dlg1-as1	hepatocellular carcinoma
+dlg1-as1	papillary thyroid carcinoma
+dlgap1-as1	colorectal carcinoma
+dlgap1-as1	gastric cancer
+dlgap1-as1	glioblastoma
+dlgap1-as1	glioma
+dlgap1-as1	hepatocellular carcinoma
+dlx6-as1	astrocytoma
+dlx6-as1	breast cancer
+dlx6-as1	cervical cancer
+dlx6-as1	colorectal cancer
+dlx6-as1	endometrial cancer
+dlx6-as1	esophageal cancer
+dlx6-as1	esophagus squamous cell carcinoma
+dlx6-as1	gastric cancer
+dlx6-as1	glioblastoma
+dlx6-as1	hepatocellular carcinoma
+dlx6-as1	kidney cortex necrosis
+dlx6-as1	laryngeal cancer
+dlx6-as1	laryngeal squamous cell carcinoma
+dlx6-as1	liver cancer
+dlx6-as1	lung adenocarcinoma
+dlx6-as1	lung non small cell carcinoma
+dlx6-as1	nasopharyngeal carcinoma
+dlx6-as1	nasopharynx carcinoma
+dlx6-as1	neuroblastoma
+dlx6-as1	osteosarcoma
+dlx6-as1	ovarian cancer
+dlx6-as1	pancreatic cancer
+dlx6-as1	pre eclampsia
+dlx6-as1	prostate cancer
+dlx6-as1	renal cell carcinoma
+dlx6-as1	thyroid cancer
+dlx6-as1	thyroid carcinoma
+dlx6-as1	triple negative breast cancer
+dlx6-as1	urinary bladder cancer
+emx2os	alzheimer disease
+emx2os	astrocytoma
+emx2os	breast cancer
+emx2os	cervical cancer
+emx2os	clear cell renal cell carcinoma
+emx2os	esophageal cancer
+emx2os	gastric cancer
+emx2os	glioblastoma multiforme
+emx2os	hypertension
+emx2os	ovarian cancer
+emx2os	parkinson disease
+emx2os	prostate cancer
+emx2os	thyroid cancer
+entpd1-as1	astrocytoma
+entpd1-as1	colorectal cancer
+entpd1-as1	esophageal cancer
+entpd1-as1	ovarian cancer
+entpd1-as1	stomach cancer
+entpd1-as1	thyroid cancer
+epb41l4a-as1	breast cancer
+epb41l4a-as1	cervical cancer
+epb41l4a-as1	clear cell renal cell carcinoma
+epb41l4a-as1	colorectal cancer
+epb41l4a-as1	esophageal cancer
+epb41l4a-as1	glioblastoma
+epb41l4a-as1	lung cancer
+epb41l4a-as1	osteoarthritis
+epb41l4a-as1	sars cov2
+eri3-it1	esophageal cancer
+eri3-it1	thyroid cancer
+extl3-as1	astrocytoma
+extl3-as1	esophageal cancer
+fam201a	astrocytoma
+fam201a	esophageal cancer
+fam201a	esophagus squamous cell carcinoma
+fam201a	glioblastoma multiforme
+fam201a	leukemia
+fam201a	lung adenocarcinoma
+fam201a	lung non small cell carcinoma
+fam201a	lung squamous cell carcinoma
+fam201a	systemic lupus erythematosus
+fam201a	thyroid cancer
+fbxl19-as1	acute myeloid leukemia
+fbxl19-as1	astrocytoma
+fbxl19-as1	breast cancer
+fbxl19-as1	cervical cancer
+fbxl19-as1	colorectal cancer
+fbxl19-as1	esophageal cancer
+fbxl19-as1	glioma
+fbxl19-as1	hepatocellular carcinoma
+fbxl19-as1	lung adenocarcinoma
+fbxl19-as1	lung cancer
+fbxl19-as1	lung non small cell carcinoma
+fbxl19-as1	osteosarcoma
+fbxl19-as1	rheumatoid arthritis
+fendrr	atherosclerosis
+fendrr	breast cancer
+fendrr	cervical cancer
+fendrr	cholangiocarcinoma
+fendrr	chronic myeloid leukemia
+fendrr	colon cancer
+fendrr	colorectal cancer
+fendrr	esophageal cancer
+fendrr	esophagus squamous cell carcinoma
+fendrr	gallbladder cancer
+fendrr	glioblastoma
+fendrr	heart failure
+fendrr	hepatocellular carcinoma
+fendrr	liver cancer
+fendrr	lung adenocarcinoma
+fendrr	lung cancer
+fendrr	lung non small cell carcinoma
+fendrr	lung squamous cell carcinoma
+fendrr	malignant melanoma
+fendrr	oral squamous cell carcinoma
+fendrr	osteosarcoma
+fendrr	pancreatic cancer
+fendrr	paraganglioma
+fendrr	pheochromocytoma
+fendrr	renal cell carcinoma
+fendrr	sepsis
+fendrr	stomach cancer
+fendrr	thyroid cancer
+fgd5-as1	acute myeloid leukemia
+fgd5-as1	colorectal cancer
+fgd5-as1	esophageal cancer
+fgd5-as1	esophagus squamous cell carcinoma
+fgd5-as1	gastric cancer
+fgd5-as1	glioblastoma
+fgd5-as1	glioma
+fgd5-as1	hepatocellular carcinoma
+fgd5-as1	laryngeal squamous cell carcinoma
+fgd5-as1	lung adenocarcinoma
+fgd5-as1	lung non small cell carcinoma
+fgd5-as1	neuroblastoma
+fgd5-as1	oral squamous cell carcinoma
+fgd5-as1	osteoarthritis
+fgd5-as1	osteosarcoma
+fgd5-as1	ovarian cancer
+fgd5-as1	pancreatic cancer
+fgd5-as1	renal cell carcinoma
+fgd5-as1	systemic lupus erythematosus
+fgd5-as1	urinary bladder cancer
+flg-as1	cervical cancer
+flg-as1	esophageal cancer
+flg-as1	esophagus squamous cell carcinoma
+foxd2-as1	astrocytoma
+foxd2-as1	bladder carcinoma
+foxd2-as1	breast cancer
+foxd2-as1	cervical cancer
+foxd2-as1	colorectal cancer
+foxd2-as1	esophageal cancer
+foxd2-as1	esophagus squamous cell carcinoma
+foxd2-as1	gallbladder cancer
+foxd2-as1	glioma
+foxd2-as1	hepatocellular carcinoma
+foxd2-as1	laryngeal squamous cell carcinoma
+foxd2-as1	lung non small cell carcinoma
+foxd2-as1	melanoma
+foxd2-as1	nasopharyngeal carcinoma
+foxd2-as1	nasopharynx carcinoma
+foxd2-as1	oral squamous cell carcinoma
+foxd2-as1	osteoarthritis
+foxd2-as1	osteosarcoma
+foxd2-as1	ovarian cancer
+foxd2-as1	papillary thyroid carcinoma
+foxd2-as1	pre eclampsia
+foxd2-as1	rheumatoid arthritis
+foxd2-as1	tongue squamous cell carcinoma
+foxd2-as1	urinary bladder cancer
+foxn3-as1	neuroblastoma
+gabpb1-as1	astrocytoma
+gabpb1-as1	cervical cancer
+gabpb1-as1	clear cell renal cell carcinoma
+gabpb1-as1	colorectal cancer
+gabpb1-as1	esophageal cancer
+gabpb1-as1	glioma
+gabpb1-as1	hepatocellular carcinoma
+gabpb1-as1	melanoma
+gabpb1-as1	osteoarthritis
+gas5	acute myeloid leukemia
+gas5	astrocytoma
+gas5	atherosclerosis
+gas5	bladder carcinoma
+gas5	bladder urothelial carcinoma
+gas5	breast cancer
+gas5	cervical cancer
+gas5	clear cell renal cell carcinoma
+gas5	colon cancer
+gas5	colorectal cancer
+gas5	coronary artery disease
+gas5	coronary heart disease
+gas5	diabetic nephropathy
+gas5	diabetic retinopathy
+gas5	endometrial cancer
+gas5	endometrial carcinoma
+gas5	epithelial ovarian cancer
+gas5	esophageal cancer
+gas5	esophagus squamous cell carcinoma
+gas5	gastric cancer
+gas5	glioblastoma
+gas5	glioblastoma multiforme
+gas5	glioma
+gas5	hepatocellular cancer
+gas5	hepatocellular carcinoma
+gas5	hypertension
+gas5	intervertebral disc degeneration
+gas5	ischemic stroke
+gas5	kidney cortex necrosis
+gas5	laryngeal cancer
+gas5	laryngeal squamous cell carcinoma
+gas5	leukemia
+gas5	liver cancer
+gas5	liver fibrosis
+gas5	lung adenocarcinoma
+gas5	lung cancer
+gas5	lung non small cell carcinoma
+gas5	lung squamous cell carcinoma
+gas5	malignant melanoma
+gas5	multiple myeloma
+gas5	multiple sclerosis
+gas5	myocardial infarction
+gas5	nasopharyngeal carcinoma
+gas5	nasopharynx carcinoma
+gas5	neuroblastoma
+gas5	oral squamous cell carcinoma
+gas5	osteoarthritis
+gas5	osteoporosis
+gas5	osteosarcoma
+gas5	pancreatic cancer
+gas5	papillary thyroid carcinoma
+gas5	parkinson disease
+gas5	polycystic ovary syndrome
+gas5	pre eclampsia
+gas5	prostate cancer
+gas5	rheumatoid arthritis
+gas5	sepsis
+gas5	stomach cancer
+gas5	systemic lupus erythematosus
+gas5	thyroid cancer
+gas5	triple negative breast cancer
+gas5	urinary bladder cancer
+gnas-as1	astrocytoma
+gnas-as1	breast cancer
+gnas-as1	esophageal cancer
+gnas-as1	glioblastoma
+gnas-as1	lung non small cell carcinoma
+gnas-as1	nasopharyngeal carcinoma
+gnas-as1	nasopharynx carcinoma
+gnas-as1	osteoarthritis
+gnas-as1	osteosarcoma
+gnas-as1	parkinson disease
+h19	acne
+h19	acute myeloid leukemia
+h19	acute promyelocytic leukemia
+h19	astrocytoma
+h19	atherosclerosis
+h19	bladder carcinoma
+h19	breast cancer
+h19	breast carcinoma
+h19	cardiovascular system disease
+h19	cervical adenocarcinoma
+h19	cervical cancer
+h19	cholangiocarcinoma
+h19	chronic myeloid leukemia
+h19	clear cell renal cell carcinoma
+h19	colon cancer
+h19	colorectal cancer
+h19	colorectal carcinoma
+h19	coronary artery disease
+h19	diabetes mellitus
+h19	diabetic nephropathy
+h19	diabetic retinopathy
+h19	duchenne muscular dystrophy
+h19	endometrial cancer
+h19	endometrial carcinoma
+h19	endometriosis
+h19	epithelial ovarian cancer
+h19	esophageal cancer
+h19	esophagus squamous cell carcinoma
+h19	gallbladder cancer
+h19	gastric cancer
+h19	gastric carcinoma
+h19	glioblastoma
+h19	glioblastoma multiforme
+h19	glioma
+h19	head and neck squamous cell carcinoma
+h19	heart disease
+h19	heart failure
+h19	hepatoblastoma
+h19	hepatocellular cancer
+h19	hepatocellular carcinoma
+h19	hormone secreting pituitary adenoma
+h19	ischemic stroke
+h19	kidney cortex necrosis
+h19	laryngeal squamous cell carcinoma
+h19	liver cancer
+h19	liver fibrosis
+h19	lung adenocarcinoma
+h19	lung cancer
+h19	lung carcinoma
+h19	lung non small cell carcinoma
+h19	malignant melanoma
+h19	multiple myeloma
+h19	multiple sclerosis
+h19	nasopharyngeal carcinoma
+h19	nasopharynx carcinoma
+h19	neuroblastoma
+h19	neuropathic pain
+h19	oral squamous cell carcinoma
+h19	osteoarthritis
+h19	osteosarcoma
+h19	pancreatic cancer
+h19	pancreatic ductal adenocarcinoma
+h19	papillary thyroid carcinoma
+h19	parkinson disease
+h19	pheochromocytoma
+h19	polycystic ovary syndrome
+h19	pre eclampsia
+h19	renal clear cell carcinoma
+h19	retinoblastoma
+h19	rhabdomyosarcoma
+h19	rheumatoid arthritis
+h19	sepsis
+h19	stomach cancer
+h19	systemic lupus erythematosus
+h19	t cell acute lymphoblastic leukemia
+h19	tongue squamous cell carcinoma
+h19	triple negative breast cancer
+h19	urinary bladder cancer
+hcg11	astrocytoma
+hcg11	atherosclerosis
+hcg11	breast cancer
+hcg11	cervical cancer
+hcg11	clear cell renal cell carcinoma
+hcg11	colorectal carcinoma
+hcg11	esophagus squamous cell carcinoma
+hcg11	gastric cancer
+hcg11	glioma
+hcg11	hepatocellular carcinoma
+hcg11	laryngeal cancer
+hcg11	lung adenocarcinoma
+hcg11	lung non small cell carcinoma
+hcg11	osteoarthritis
+hcg11	osteosarcoma
+hcg11	ovarian cancer
+hcg11	prostate cancer
+hcg11	sars cov2
+hcg17	esophageal cancer
+hcg17	thyroid cancer
+hcg18	breast cancer
+hcg18	colorectal cancer
+hcg18	epithelial ovarian cancer
+hcg18	esophageal cancer
+hcg18	gastric cancer
+hcg18	glioblastoma
+hcg18	glioma
+hcg18	hepatocellular carcinoma
+hcg18	intervertebral disc degeneration
+hcg18	lung adenocarcinoma
+hcg18	lung cancer
+hcg18	nasopharyngeal carcinoma
+hcg18	nasopharynx carcinoma
+hcg18	osteoporosis
+hcg18	osteosarcoma
+hcg18	thyroid cancer
+hcg18	urinary bladder cancer
+hcp5	acute myeloid leukemia
+hcp5	cervical cancer
+hcp5	clear cell renal cell carcinoma
+hcp5	colorectal cancer
+hcp5	cutaneous squamous cell carcinoma
+hcp5	diabetic nephropathy
+hcp5	diffuse large b cell lymphoma
+hcp5	esophageal cancer
+hcp5	esophagus squamous cell carcinoma
+hcp5	gastric cancer
+hcp5	gastric carcinoma
+hcp5	glioma
+hcp5	hepatocellular carcinoma
+hcp5	lung adenocarcinoma
+hcp5	lung non small cell carcinoma
+hcp5	multiple myeloma
+hcp5	neuroblastoma
+hcp5	oral squamous cell carcinoma
+hcp5	osteoarthritis
+hcp5	osteosarcoma
+hcp5	ovarian cancer
+hcp5	pancreatic cancer
+hcp5	polycystic ovary syndrome
+hcp5	prostate cancer
+hcp5	triple negative breast cancer
+hla-f-as1	acute myeloid leukemia
+hla-f-as1	colorectal cancer
+hla-f-as1	esophageal cancer
+hla-f-as1	hepatocellular carcinoma
+hla-f-as1	lung adenocarcinoma
+hla-f-as1	systemic lupus erythematosus
+hla-f-as1	thyroid cancer
+hla-f-as1	triple negative breast cancer
+hotair	acute myeloid leukemia
+hotair	astrocytoma
+hotair	atherosclerosis
+hotair	bladder carcinoma
+hotair	bladder urothelial carcinoma
+hotair	breast cancer
+hotair	cardiovascular system disease
+hotair	cervical cancer
+hotair	cholangiocarcinoma
+hotair	clear cell renal cell carcinoma
+hotair	colon cancer
+hotair	colorectal cancer
+hotair	coronary artery disease
+hotair	cutaneous squamous cell carcinoma
+hotair	diabetes mellitus
+hotair	diabetic nephropathy
+hotair	diabetic retinopathy
+hotair	diffuse large b cell lymphoma
+hotair	endometrial cancer
+hotair	endometrial carcinoma
+hotair	epithelial ovarian cancer
+hotair	esophageal cancer
+hotair	esophageal carcinoma
+hotair	esophagus squamous cell carcinoma
+hotair	gallbladder cancer
+hotair	gastric cancer
+hotair	glioblastoma
+hotair	glioblastoma multiforme
+hotair	glioma
+hotair	head and neck squamous cell carcinoma
+hotair	heart disease
+hotair	hepatocellular cancer
+hotair	hepatocellular carcinoma
+hotair	intervertebral disc degeneration
+hotair	ischemic stroke
+hotair	kidney cortex necrosis
+hotair	laryngeal cancer
+hotair	laryngeal squamous cell carcinoma
+hotair	leukemia
+hotair	liver cancer
+hotair	liver fibrosis
+hotair	lung adenocarcinoma
+hotair	lung cancer
+hotair	lung non small cell carcinoma
+hotair	lung squamous cell carcinoma
+hotair	malignant melanoma
+hotair	melanoma
+hotair	multiple myeloma
+hotair	multiple sclerosis
+hotair	myocardial infarction
+hotair	nasopharyngeal carcinoma
+hotair	nasopharynx carcinoma
+hotair	neuroblastoma
+hotair	oesophageal squamous cell cancer
+hotair	oral squamous cell carcinoma
+hotair	osteoarthritis
+hotair	osteosarcoma
+hotair	pancreatic cancer
+hotair	pancreatic ductal adenocarcinoma
+hotair	papillary thyroid carcinoma
+hotair	paraganglioma
+hotair	parkinson disease
+hotair	pre eclampsia
+hotair	prostate cancer
+hotair	renal cancer
+hotair	renal carcinoma
+hotair	renal cell carcinoma
+hotair	retinoblastoma
+hotair	rheumatoid arthritis
+hotair	salivary adenoid cystic carcinoma
+hotair	stomach cancer
+hotair	triple negative breast cancer
+hotair	urinary bladder cancer
+hotair	urothelial cancer
+hotairm1	acute myeloid leukemia
+hotairm1	acute promyelocytic leukemia
+hotairm1	astrocytoma
+hotairm1	breast cancer
+hotairm1	clear cell renal cell carcinoma
+hotairm1	colorectal cancer
+hotairm1	colorectal carcinoma
+hotairm1	diabetic nephropathy
+hotairm1	esophageal cancer
+hotairm1	gastric cancer
+hotairm1	glioblastoma
+hotairm1	glioblastoma multiforme
+hotairm1	glioma
+hotairm1	hepatocellular carcinoma
+hotairm1	liver cancer
+hotairm1	lung adenocarcinoma
+hotairm1	lung cancer
+hotairm1	lung non small cell carcinoma
+hotairm1	melanoma
+hotairm1	osteoarthritis
+hotairm1	osteoporosis
+hotairm1	ovarian cancer
+hotairm1	pancreatic ductal adenocarcinoma
+hotairm1	papillary thyroid carcinoma
+hotairm1	parkinson disease
+hotairm1	polycystic ovary syndrome
+hotairm1	prostate cancer
+hotairm1	urinary bladder cancer
+hoxa-as2	acute lymphoblastic leukemia
+hoxa-as2	acute myeloid leukemia
+hoxa-as2	acute promyelocytic leukemia
+hoxa-as2	breast cancer
+hoxa-as2	cervical cancer
+hoxa-as2	chronic myeloid leukemia
+hoxa-as2	colorectal cancer
+hoxa-as2	endometrial carcinoma
+hoxa-as2	esophageal cancer
+hoxa-as2	gallbladder cancer
+hoxa-as2	gallbladder carcinoma
+hoxa-as2	gastric cancer
+hoxa-as2	glioblastoma
+hoxa-as2	glioma
+hoxa-as2	hepatoblastoma
+hoxa-as2	hepatocellular carcinoma
+hoxa-as2	kidney cortex necrosis
+hoxa-as2	lung non small cell carcinoma
+hoxa-as2	melanoma
+hoxa-as2	multiple sclerosis
+hoxa-as2	nasopharynx carcinoma
+hoxa-as2	oral squamous cell carcinoma
+hoxa-as2	osteosarcoma
+hoxa-as2	pancreatic cancer
+hoxa-as2	papillary thyroid carcinoma
+hoxa-as2	parkinson disease
+hoxa-as2	prostate cancer
+hoxa-as2	stomach cancer
+hoxa-as2	thyroid cancer
+hoxa-as2	urinary bladder cancer
+hoxa-as3	astrocytoma
+hoxa-as3	breast cancer
+hoxa-as3	esophageal cancer
+hoxa-as3	gastric cancer
+hoxa-as3	glioblastoma
+hoxa-as3	glioma
+hoxa-as3	hepatocellular carcinoma
+hoxa-as3	lung adenocarcinoma
+hoxa-as3	lung non small cell carcinoma
+hoxa-as3	osteoarthritis
+hoxa-as3	parkinson disease
+hoxa-as3	thyroid cancer
+hoxa11-as	astrocytoma
+hoxa11-as	breast cancer
+hoxa11-as	cervical adenocarcinoma
+hoxa11-as	cervical cancer
+hoxa11-as	clear cell renal cell carcinoma
+hoxa11-as	colorectal cancer
+hoxa11-as	endometriosis
+hoxa11-as	esophageal cancer
+hoxa11-as	esophagus squamous cell carcinoma
+hoxa11-as	gastric cancer
+hoxa11-as	glioblastoma
+hoxa11-as	glioma
+hoxa11-as	hepatocellular carcinoma
+hoxa11-as	hypopharyngeal squamous cell carcinoma
+hoxa11-as	laryngeal squamous cell carcinoma
+hoxa11-as	liver cancer
+hoxa11-as	lung adenocarcinoma
+hoxa11-as	lung cancer
+hoxa11-as	lung non small cell carcinoma
+hoxa11-as	nasopharynx carcinoma
+hoxa11-as	neuroblastoma
+hoxa11-as	oral squamous cell carcinoma
+hoxa11-as	osteosarcoma
+hoxa11-as	ovarian cancer
+hoxa11-as	papillary thyroid carcinoma
+hoxa11-as	parkinson disease
+hoxa11-as	pre eclampsia
+hoxa11-as	prostate cancer
+hoxa11-as	renal cancer
+hoxa11-as	retinoblastoma
+hoxa11-as	stomach cancer
+hoxa11-as	thyroid cancer
+hoxa11-as	tuberculosis
+hoxd-as1	breast cancer
+hoxd-as1	cervical cancer
+hoxd-as1	colorectal cancer
+hoxd-as1	epithelial ovarian cancer
+hoxd-as1	gastric cancer
+hoxd-as1	glioblastoma
+hoxd-as1	hepatocellular carcinoma
+hoxd-as1	liver cancer
+hoxd-as1	lung non small cell carcinoma
+hoxd-as1	melanoma
+hoxd-as1	neuroblastoma
+hoxd-as1	osteosarcoma
+hoxd-as1	papillary thyroid carcinoma
+hoxd-as1	prostate cancer
+hoxd-as1	urinary bladder cancer
+ilf3-as1	cervical squamous cell carcinoma
+ilf3-as1	gastric cancer
+ilf3-as1	malignant melanoma
+ilf3-as1	melanoma
+ilf3-as1	osteosarcoma
+ilf3-as1	prostate cancer
+ints6-as1	esophageal cancer
+iqch-as1	pancreatic ductal adenocarcinoma
+iqch-as1	thyroid cancer
+jpx	breast cancer
+jpx	glioblastoma multiforme
+jpx	glioma
+jpx	hepatocellular cancer
+jpx	hepatocellular carcinoma
+jpx	intervertebral disc degeneration
+jpx	lung cancer
+jpx	lung non small cell carcinoma
+jpx	oral squamous cell carcinoma
+jpx	ovarian cancer
+jpx	parkinson disease
+jpx	prostate cancer
+kb-1460a1.5	esophageal cancer
+kb-1460a1.5	hepatocellular carcinoma
+kb-1615e4.2	esophageal cancer
+kb-1732a1.1	esophageal cancer
+kb-1732a1.1	thyroid cancer
+kcnh1-it1	esophageal cancer
+kcnq1ot1	acute myeloid leukemia
+kcnq1ot1	acute promyelocytic leukemia
+kcnq1ot1	astrocytoma
+kcnq1ot1	atherosclerosis
+kcnq1ot1	breast cancer
+kcnq1ot1	cholangiocarcinoma
+kcnq1ot1	colon cancer
+kcnq1ot1	colorectal cancer
+kcnq1ot1	coronary artery disease
+kcnq1ot1	diabetic nephropathy
+kcnq1ot1	esophageal cancer
+kcnq1ot1	esophagus squamous cell carcinoma
+kcnq1ot1	gastric cancer
+kcnq1ot1	glioblastoma
+kcnq1ot1	glioma
+kcnq1ot1	heart failure
+kcnq1ot1	hepatocellular cancer
+kcnq1ot1	hepatocellular carcinoma
+kcnq1ot1	hypopharyngeal squamous cell carcinoma
+kcnq1ot1	ischemic stroke
+kcnq1ot1	lung adenocarcinoma
+kcnq1ot1	lung cancer
+kcnq1ot1	lung non small cell carcinoma
+kcnq1ot1	melanoma
+kcnq1ot1	nasopharynx carcinoma
+kcnq1ot1	neuroblastoma
+kcnq1ot1	oral squamous cell carcinoma
+kcnq1ot1	osteoarthritis
+kcnq1ot1	osteoporosis
+kcnq1ot1	osteosarcoma
+kcnq1ot1	ovarian cancer
+kcnq1ot1	papillary thyroid carcinoma
+kcnq1ot1	parkinson disease
+kcnq1ot1	prostate cancer
+kcnq1ot1	renal cell carcinoma
+kcnq1ot1	sars cov2
+kcnq1ot1	stomach cancer
+kcnq1ot1	systemic lupus erythematosus
+kcnq1ot1	tongue cancer
+kcnq1ot1	tongue squamous cell carcinoma
+kcnq1ot1	triple negative breast cancer
+kcnq1ot1	urinary bladder cancer
+kdm4a-as1	esophageal cancer
+kdm4a-as1	head and neck squamous cell carcinoma
+kdm4a-as1	hepatocellular carcinoma
+kif9-as1	astrocytoma
+kif9-as1	glioblastoma multiforme
+kif9-as1	melanoma
+kif9-as1	nasopharynx carcinoma
+ktn1-as1	colorectal cancer
+ktn1-as1	glioblastoma
+ktn1-as1	head and neck squamous cell carcinoma
+ktn1-as1	hepatocellular carcinoma
+ktn1-as1	lung adenocarcinoma
+ktn1-as1	lung non small cell carcinoma
+ktn1-as1	pancreatic cancer
+ktn1-as1	thyroid cancer
+ktn1-as1	urinary bladder cancer
+la16c-313d11.11	endometrial cancer
+lbx2-as1	astrocytoma
+lbx2-as1	colorectal cancer
+lbx2-as1	esophageal cancer
+lbx2-as1	esophagus squamous cell carcinoma
+lbx2-as1	gastric cancer
+lbx2-as1	glioma
+lbx2-as1	hepatocellular carcinoma
+lbx2-as1	lung non small cell carcinoma
+lbx2-as1	multiple myeloma
+lbx2-as1	ovarian cancer
+lbx2-as1	renal cell carcinoma
+lbx2-as1	thyroid cancer
+lef1-as1	astrocytoma
+lef1-as1	breast cancer
+lef1-as1	chronic lymphocytic leukemia
+lef1-as1	colon cancer
+lef1-as1	colorectal cancer
+lef1-as1	esophageal cancer
+lef1-as1	esophagus squamous cell carcinoma
+lef1-as1	glioblastoma
+lef1-as1	glioma
+lef1-as1	hepatocellular carcinoma
+lef1-as1	lung cancer
+lef1-as1	lung non small cell carcinoma
+lef1-as1	oral squamous cell carcinoma
+lef1-as1	osteosarcoma
+lef1-as1	ovarian cancer
+lef1-as1	parkinson disease
+lef1-as1	prostate cancer
+lef1-as1	retinoblastoma
+lef1-as1	thyroid cancer
+lemd1-as1	astrocytoma
+lemd1-as1	epithelial ovarian cancer
+lemd1-as1	thyroid cancer
+lifr-as1	breast cancer
+lifr-as1	colorectal cancer
+lifr-as1	esophageal cancer
+lifr-as1	gastric carcinoma
+lifr-as1	thyroid cancer
+limd1-as1	astrocytoma
+limd1-as1	colon cancer
+limd1-as1	glioblastoma
+limd1-as1	lung non small cell carcinoma
+limd1-as1	parkinson disease
+limd1-as1	thyroid cancer
+linc00086	gastric cancer
+linc00094	lung squamous cell carcinoma
+linc00152	acute myeloid leukemia
+linc00152	alzheimer disease
+linc00152	breast cancer
+linc00152	cervical cancer
+linc00152	clear cell renal cell carcinoma
+linc00152	colon cancer
+linc00152	colorectal cancer
+linc00152	esophageal cancer
+linc00152	esophagus squamous cell carcinoma
+linc00152	gallbladder cancer
+linc00152	gastric cancer
+linc00152	glioblastoma
+linc00152	glioma
+linc00152	hepatocellular carcinoma
+linc00152	laryngeal squamous cell carcinoma
+linc00152	lung adenocarcinoma
+linc00152	lung cancer
+linc00152	oral squamous cell carcinoma
+linc00152	osteosarcoma
+linc00152	ovarian cancer
+linc00152	pancreatic cancer
+linc00152	pancreatic ductal adenocarcinoma
+linc00152	papillary thyroid carcinoma
+linc00152	tongue squamous cell carcinoma
+linc00152	triple negative breast cancer
+linc00152	urinary bladder cancer
+linc00163	esophageal cancer
+linc00163	gastric cancer
+linc00163	lung cancer
+linc00163	papillary thyroid carcinoma
+linc00173	acute myeloid leukemia
+linc00173	astrocytoma
+linc00173	cervical cancer
+linc00173	esophagus squamous cell carcinoma
+linc00173	glioblastoma
+linc00173	glioblastoma multiforme
+linc00173	hepatocellular cancer
+linc00173	hepatocellular carcinoma
+linc00173	leukemia
+linc00173	lung non small cell carcinoma
+linc00173	nasopharynx carcinoma
+linc00173	pancreatic cancer
+linc00173	polycystic ovary syndrome
+linc00173	prostate cancer
+linc00173	small cell lung cancer
+linc00173	thyroid cancer
+linc00173	triple negative breast cancer
+linc00174	colorectal cancer
+linc00174	colorectal carcinoma
+linc00174	diabetic retinopathy
+linc00174	esophageal cancer
+linc00174	glioma
+linc00174	hepatocellular carcinoma
+linc00174	sars cov2
+linc00176	esophageal cancer
+linc00176	hepatocellular carcinoma
+linc00176	ovarian cancer
+linc00205	gastric cancer
+linc00205	glioma
+linc00205	hepatoblastoma
+linc00205	hepatocellular carcinoma
+linc00205	lung adenocarcinoma
+linc00205	lung cancer
+linc00205	retinoblastoma
+linc00205	thyroid cancer
+linc00240	acute myeloid leukemia
+linc00240	cervical cancer
+linc00240	esophageal cancer
+linc00240	esophagus squamous cell carcinoma
+linc00240	gastric cancer
+linc00240	hepatocellular carcinoma
+linc00240	lung non small cell carcinoma
+linc00240	thyroid cancer
+linc00242	esophageal cancer
+linc00242	gastric cancer
+linc00265	acute myeloid leukemia
+linc00265	astrocytoma
+linc00265	colorectal cancer
+linc00265	esophageal cancer
+linc00265	osteosarcoma
+linc00265	sars cov2
+linc00265	urinary bladder cancer
+linc00313	breast cancer
+linc00313	esophageal cancer
+linc00313	glioblastoma
+linc00313	glioma
+linc00313	hepatocellular carcinoma
+linc00313	lung cancer
+linc00313	osteoarthritis
+linc00313	osteosarcoma
+linc00313	papillary thyroid carcinoma
+linc00319	acute myeloid leukemia
+linc00319	breast cancer
+linc00319	cervical cancer
+linc00319	cutaneous squamous cell carcinoma
+linc00319	gastric cancer
+linc00319	glioma
+linc00319	ischemic stroke
+linc00319	laryngeal squamous cell carcinoma
+linc00319	lung adenocarcinoma
+linc00319	lung cancer
+linc00319	lung non small cell carcinoma
+linc00319	nasopharyngeal carcinoma
+linc00319	nasopharynx carcinoma
+linc00319	oral squamous cell carcinoma
+linc00319	osteosarcoma
+linc00319	ovarian cancer
+linc00319	urinary bladder cancer
+linc00339	astrocytoma
+linc00339	breast cancer
+linc00339	clear cell renal cell carcinoma
+linc00339	colorectal cancer
+linc00339	endometriosis
+linc00339	gastric cancer
+linc00339	glioblastoma multiforme
+linc00339	glioma
+linc00339	hepatocellular carcinoma
+linc00339	laryngeal squamous cell carcinoma
+linc00339	lung non small cell carcinoma
+linc00339	ovarian cancer
+linc00339	pancreatic ductal adenocarcinoma
+linc00339	systemic lupus erythematosus
+linc00339	triple negative breast cancer
+linc00341	colorectal cancer
+linc00341	gastric cancer
+linc00342	acute myeloid leukemia
+linc00342	clear cell renal cell carcinoma
+linc00342	colorectal cancer
+linc00342	esophageal cancer
+linc00342	glioblastoma
+linc00342	hepatocellular carcinoma
+linc00342	infantile hemangioma
+linc00342	lung non small cell carcinoma
+linc00342	nasopharynx carcinoma
+linc00461	alzheimer disease
+linc00461	astrocytoma
+linc00461	breast cancer
+linc00461	colon cancer
+linc00461	colorectal cancer
+linc00461	esophageal cancer
+linc00461	gastric cancer
+linc00461	glioblastoma multiforme
+linc00461	glioma
+linc00461	head and neck squamous cell carcinoma
+linc00461	hepatocellular carcinoma
+linc00461	lung adenocarcinoma
+linc00461	lung cancer
+linc00461	lung non small cell carcinoma
+linc00461	multiple myeloma
+linc00461	osteoarthritis
+linc00461	renal cell carcinoma
+linc00461	thyroid cancer
+linc00472	astrocytoma
+linc00472	atherosclerosis
+linc00472	breast cancer
+linc00472	clear cell renal cell carcinoma
+linc00472	colorectal cancer
+linc00472	epithelial ovarian cancer
+linc00472	esophageal cancer
+linc00472	hepatocellular carcinoma
+linc00472	lung adenocarcinoma
+linc00472	lung non small cell carcinoma
+linc00472	lung squamous cell carcinoma
+linc00472	osteosarcoma
+linc00472	pancreatic cancer
+linc00472	sepsis
+linc00472	thyroid cancer
+linc00472	tongue squamous cell carcinoma
+linc00472	triple negative breast cancer
+linc00473	astrocytoma
+linc00473	breast cancer
+linc00473	cervical cancer
+linc00473	colorectal cancer
+linc00473	esophageal cancer
+linc00473	esophagus squamous cell carcinoma
+linc00473	gastric cancer
+linc00473	glioblastoma
+linc00473	glioma
+linc00473	head and neck squamous cell carcinoma
+linc00473	hepatocellular carcinoma
+linc00473	lung adenocarcinoma
+linc00473	lung cancer
+linc00473	lung non small cell carcinoma
+linc00473	mucoepidermoid carcinoma
+linc00473	osteoarthritis
+linc00473	osteosarcoma
+linc00473	pancreatic cancer
+linc00473	pre eclampsia
+linc00473	prostate cancer
+linc00473	renal cell carcinoma
+linc00473	rheumatoid arthritis
+linc00473	sars cov2
+linc00473	thyroid cancer
+linc00473	type 1 diabetes mellitus
+linc00476	prostate cancer
+linc00482	hepatocellular carcinoma
+linc00482	urinary bladder cancer
+linc00485	colorectal cancer
+linc00485	hepatocellular carcinoma
+linc00485	lung adenocarcinoma
+linc00485	lung cancer
+linc00511	breast cancer
+linc00511	cervical cancer
+linc00511	clear cell renal cell carcinoma
+linc00511	colorectal cancer
+linc00511	esophageal cancer
+linc00511	gastric cancer
+linc00511	glioblastoma
+linc00511	glioma
+linc00511	hepatocellular carcinoma
+linc00511	lung adenocarcinoma
+linc00511	lung cancer
+linc00511	lung non small cell carcinoma
+linc00511	lung squamous cell carcinoma
+linc00511	melanoma
+linc00511	osteosarcoma
+linc00511	ovarian cancer
+linc00511	pancreatic cancer
+linc00511	pancreatic ductal adenocarcinoma
+linc00511	papillary thyroid carcinoma
+linc00511	pre eclampsia
+linc00511	t cell acute lymphoblastic leukemia
+linc00511	tongue squamous cell carcinoma
+linc00511	urinary bladder cancer
+linc00514	esophageal cancer
+linc00514	papillary thyroid carcinoma
+linc00525	astrocytoma
+linc00525	colorectal cancer
+linc00525	lung adenocarcinoma
+linc00525	lung non small cell carcinoma
+linc00525	urinary bladder cancer
+linc00599	diabetes mellitus
+linc00599	glioma
+linc00630	colorectal cancer
+linc00630	esophageal cancer
+linc00630	glioma
+linc00630	hepatocellular carcinoma
+linc00630	lung non small cell carcinoma
+linc00638	esophageal cancer
+linc00638	rheumatoid arthritis
+linc00641	acute myeloid leukemia
+linc00641	breast cancer
+linc00641	cervical cancer
+linc00641	colorectal cancer
+linc00641	gastric cancer
+linc00641	glioma
+linc00641	intervertebral disc degeneration
+linc00641	lung non small cell carcinoma
+linc00641	prostate adenocarcinoma
+linc00641	prostate cancer
+linc00641	thyroid cancer
+linc00641	urinary bladder cancer
+linc00649	acute ischemic stroke
+linc00649	acute myeloid leukemia
+linc00649	astrocytoma
+linc00649	prostate cancer
+linc00649	rheumatoid arthritis
+linc00649	sepsis
+linc00649	urinary bladder cancer
+linc00652	acute lymphoblastic leukemia
+linc00652	astrocytoma
+linc00652	esophageal cancer
+linc00652	thyroid cancer
+linc00657	breast cancer
+linc00657	glioblastoma
+linc00657	hepatocellular carcinoma
+linc00657	laryngeal squamous cell carcinoma
+linc00657	pancreatic ductal adenocarcinoma
+linc00661	esophageal cancer
+linc00662	acute myeloid leukemia
+linc00662	alzheimer disease
+linc00662	breast cancer
+linc00662	cervical cancer
+linc00662	colon cancer
+linc00662	esophagus squamous cell carcinoma
+linc00662	gastric cancer
+linc00662	glioma
+linc00662	hepatocellular carcinoma
+linc00662	lung cancer
+linc00662	lung non small cell carcinoma
+linc00662	melanoma
+linc00662	oral squamous cell carcinoma
+linc00662	osteoarthritis
+linc00662	ovarian cancer
+linc00662	parkinson disease
+linc00662	prostate cancer
+linc00662	sars cov2
+linc00663	breast cancer
+linc00663	gastric cancer
+linc00663	glioblastoma
+linc00663	glioblastoma multiforme
+linc00663	glioma
+linc00663	lung cancer
+linc00663	melanoma
+linc00663	pancreatic cancer
+linc00663	prostate cancer
+linc00663	thyroid cancer
+linc00665	breast cancer
+linc00665	cervical cancer
+linc00665	cholangiocarcinoma
+linc00665	colorectal cancer
+linc00665	endometrial carcinoma
+linc00665	esophageal cancer
+linc00665	gastric cancer
+linc00665	glioblastoma
+linc00665	glioma
+linc00665	hepatocellular carcinoma
+linc00665	lung adenocarcinoma
+linc00665	lung non small cell carcinoma
+linc00665	melanoma
+linc00665	osteosarcoma
+linc00665	prostate cancer
+linc00665	t cell acute lymphoblastic leukemia
+linc00667	breast cancer
+linc00667	cholangiocarcinoma
+linc00667	glioblastoma
+linc00667	glioma
+linc00667	lung non small cell carcinoma
+linc00667	nasopharynx carcinoma
+linc00667	polycystic ovary syndrome
+linc00667	thyroid cancer
+linc00680	esophageal cancer
+linc00680	glioblastoma
+linc00680	hepatocellular carcinoma
+linc00680	lung adenocarcinoma
+linc00680	systemic lupus erythematosus
+linc00689	astrocytoma
+linc00689	colorectal cancer
+linc00689	esophageal cancer
+linc00689	gastric cancer
+linc00689	glioblastoma
+linc00689	glioma
+linc00689	hepatocellular carcinoma
+linc00689	osteosarcoma
+linc00689	prostate cancer
+linc00689	thyroid cancer
+linc00689	triple negative breast cancer
+linc00707	breast cancer
+linc00707	clear cell renal cell carcinoma
+linc00707	colorectal cancer
+linc00707	esophageal cancer
+linc00707	gastric cancer
+linc00707	glioblastoma
+linc00707	glioma
+linc00707	hepatocellular carcinoma
+linc00707	lung adenocarcinoma
+linc00707	lung non small cell carcinoma
+linc00707	melanoma
+linc00707	osteosarcoma
+linc00707	ovarian cancer
+linc00707	urinary bladder cancer
+linc00839	breast cancer
+linc00839	gastric cancer
+linc00839	glioblastoma
+linc00839	lung adenocarcinoma
+linc00839	lung squamous cell carcinoma
+linc00839	melanoma
+linc00839	neuroblastoma
+linc00839	osteoarthritis
+linc00839	thyroid cancer
+linc00842	astrocytoma
+linc00842	gastric cancer
+linc00842	glioblastoma
+linc00842	lung adenocarcinoma
+linc00842	pancreatic ductal adenocarcinoma
+linc00842	sars cov2
+linc00847	esophageal cancer
+linc00852	colon cancer
+linc00852	lung adenocarcinoma
+linc00852	osteosarcoma
+linc00852	ovarian cancer
+linc00863	systemic lupus erythematosus
+loxl1-as1	atherosclerosis
+loxl1-as1	breast cancer
+loxl1-as1	cholangiocarcinoma
+loxl1-as1	endometrial cancer
+loxl1-as1	epithelial ovarian cancer
+loxl1-as1	gastric cancer
+loxl1-as1	glioblastoma
+loxl1-as1	glioma
+loxl1-as1	hepatocellular carcinoma
+loxl1-as1	intrahepatic cholangiocarcinoma
+loxl1-as1	liver cancer
+loxl1-as1	lung adenocarcinoma
+loxl1-as1	lung non small cell carcinoma
+loxl1-as1	osteoarthritis
+loxl1-as1	osteoporosis
+loxl1-as1	osteosarcoma
+loxl1-as1	ovarian cancer
+loxl1-as1	pancreatic cancer
+loxl1-as1	prostate cancer
+loxl1-as1	renal cell carcinoma
+loxl1-as1	thyroid cancer
+mafg-as1	breast cancer
+mafg-as1	colorectal cancer
+mafg-as1	gastric cancer
+mafg-as1	hepatocellular carcinoma
+mafg-as1	lung adenocarcinoma
+mafg-as1	lung non small cell carcinoma
+magi1-it1	epithelial ovarian cancer
+magi1-it1	esophageal cancer
+magi1-it1	lung non small cell carcinoma
+magi2-as3	acute myeloid leukemia
+magi2-as3	alzheimer disease
+magi2-as3	breast cancer
+magi2-as3	cervical cancer
+magi2-as3	cervical squamous cell carcinoma
+magi2-as3	clear cell renal cell carcinoma
+magi2-as3	colorectal cancer
+magi2-as3	esophageal cancer
+magi2-as3	gastric cancer
+magi2-as3	glioblastoma multiforme
+magi2-as3	glioma
+magi2-as3	hepatocellular carcinoma
+magi2-as3	intervertebral disc degeneration
+magi2-as3	lung cancer
+magi2-as3	lung non small cell carcinoma
+magi2-as3	lung squamous cell carcinoma
+magi2-as3	nasopharynx carcinoma
+magi2-as3	ovarian cancer
+magi2-as3	prostate cancer
+magi2-as3	urinary bladder cancer
+malat1	acute ischemic stroke
+malat1	acute lymphoblastic leukemia
+malat1	acute myeloid leukemia
+malat1	alzheimer disease
+malat1	astrocytoma
+malat1	atherosclerosis
+malat1	bladder carcinoma
+malat1	bladder urothelial carcinoma
+malat1	breast cancer
+malat1	cardiovascular system disease
+malat1	cervical adenocarcinoma
+malat1	cervical cancer
+malat1	cholangiocarcinoma
+malat1	chronic lymphocytic leukemia
+malat1	chronic myeloid leukemia
+malat1	clear cell renal cell carcinoma
+malat1	colon cancer
+malat1	colorectal cancer
+malat1	coronary artery disease
+malat1	coronary atherosclerosis
+malat1	coronary atherosclerotic heart disease
+malat1	coronary heart disease
+malat1	crohn disease
+malat1	cutaneous squamous cell carcinoma
+malat1	deep vein thrombosis
+malat1	diabetes mellitus
+malat1	diabetic nephropathy
+malat1	diabetic retinopathy
+malat1	diffuse large b cell lymphoma
+malat1	endometrial carcinoma
+malat1	endometriosis
+malat1	epithelial ovarian cancer
+malat1	esophageal cancer
+malat1	esophagus squamous cell carcinoma
+malat1	gallbladder cancer
+malat1	gallbladder carcinoma
+malat1	gastric cancer
+malat1	gastric carcinoma
+malat1	glioblastoma
+malat1	glioblastoma multiforme
+malat1	glioma
+malat1	head and neck squamous cell carcinoma
+malat1	heart failure
+malat1	hepatoblastoma
+malat1	hepatocellular cancer
+malat1	hepatocellular carcinoma
+malat1	hypopharyngeal squamous cell carcinoma
+malat1	infantile hemangioma
+malat1	intervertebral disc degeneration
+malat1	intracranial aneurysm
+malat1	ischemic stroke
+malat1	kidney cortex necrosis
+malat1	laryngeal cancer
+malat1	laryngeal squamous cell carcinoma
+malat1	liver cancer
+malat1	liver fibrosis
+malat1	lung adenocarcinoma
+malat1	lung cancer
+malat1	lung non small cell carcinoma
+malat1	lung squamous cell carcinoma
+malat1	malignant melanoma
+malat1	multiple myeloma
+malat1	multiple sclerosis
+malat1	nasopharyngeal carcinoma
+malat1	nasopharynx carcinoma
+malat1	neuroblastoma
+malat1	neuropathic pain
+malat1	oral squamous cell carcinoma
+malat1	osteoarthritis
+malat1	osteoporosis
+malat1	osteosarcoma
+malat1	ovarian carcinoma
+malat1	pancreatic cancer
+malat1	pancreatic ductal adenocarcinoma
+malat1	papillary thyroid carcinoma
+malat1	paraganglioma
+malat1	parkinson disease
+malat1	polycystic ovary syndrome
+malat1	pre eclampsia
+malat1	prostate cancer
+malat1	pulmonary fibrosis
+malat1	renal cancer
+malat1	renal carcinoma
+malat1	renal clear cell carcinoma
+malat1	retinoblastoma
+malat1	rhabdomyosarcoma
+malat1	rheumatoid arthritis
+malat1	sars cov2
+malat1	sepsis
+malat1	skin squamous cell carcinoma
+malat1	stomach cancer
+malat1	systemic lupus erythematosus
+malat1	tongue cancer
+malat1	triple negative breast cancer
+malat1	type 1 diabetes mellitus
+malat1	urinary bladder cancer
+malat1	urothelial cancer
+map3k14	pancreatic ductal adenocarcinoma
+mapkapk5-as1	colorectal cancer
+mapkapk5-as1	glioblastoma multiforme
+mapkapk5-as1	hepatocellular cancer
+mapkapk5-as1	hepatocellular carcinoma
+mapkapk5-as1	pancreatic ductal adenocarcinoma
+mapkapk5-as1	polycystic ovary syndrome
+mapkapk5-as1	rheumatoid arthritis
+mapkapk5-as1	thyroid cancer
+matn1-as1	esophageal cancer
+matn1-as1	glioblastoma
+matn1-as1	glioma
+matn1-as1	osteosarcoma
+matn1-as1	thyroid cancer
+matn1-as1	urinary bladder cancer
+mcf2l-as1	clear cell renal cell carcinoma
+mcf2l-as1	colorectal cancer
+mcf2l-as1	esophageal cancer
+mcf2l-as1	lung non small cell carcinoma
+mcf2l-as1	osteoporosis
+mcf2l-as1	thyroid cancer
+mcm3ap-as1	acute ischemic stroke
+mcm3ap-as1	alzheimer disease
+mcm3ap-as1	breast cancer
+mcm3ap-as1	cervical squamous cell carcinoma
+mcm3ap-as1	clear cell renal cell carcinoma
+mcm3ap-as1	colorectal cancer
+mcm3ap-as1	endometriosis
+mcm3ap-as1	gastric cancer
+mcm3ap-as1	glioblastoma
+mcm3ap-as1	hepatocellular carcinoma
+mcm3ap-as1	lung cancer
+mcm3ap-as1	lung non small cell carcinoma
+mcm3ap-as1	nasopharynx carcinoma
+mcm3ap-as1	oral squamous cell carcinoma
+mcm3ap-as1	osteoarthritis
+mcm3ap-as1	pancreatic cancer
+mcm3ap-as1	papillary thyroid carcinoma
+mcm3ap-as1	prostate cancer
+mcm3ap-as1	sepsis
+meg3	acute myeloid leukemia
+meg3	acute promyelocytic leukemia
+meg3	atherosclerosis
+meg3	bladder urothelial carcinoma
+meg3	breast cancer
+meg3	cardiovascular system disease
+meg3	castration resistant prostate carcinoma
+meg3	cervical adenocarcinoma
+meg3	cervical cancer
+meg3	cholangiocarcinoma
+meg3	chronic myeloid leukemia
+meg3	clear cell renal cell carcinoma
+meg3	colon cancer
+meg3	colorectal cancer
+meg3	colorectal carcinoma
+meg3	coronary artery disease
+meg3	diabetes mellitus
+meg3	diabetic nephropathy
+meg3	diabetic retinopathy
+meg3	endometrial cancer
+meg3	endometrial carcinoma
+meg3	epithelial ovarian cancer
+meg3	esophageal cancer
+meg3	esophagus squamous cell carcinoma
+meg3	gallbladder cancer
+meg3	gastric cancer
+meg3	glioblastoma
+meg3	glioblastoma multiforme
+meg3	glioma
+meg3	head and neck squamous cell carcinoma
+meg3	hepatocellular cancer
+meg3	hepatocellular carcinoma
+meg3	hirschsprung disease
+meg3	hypoxia induced pulmonary hypertension
+meg3	ischemic stroke
+meg3	kidney cortex necrosis
+meg3	laryngeal cancer
+meg3	laryngeal squamous cell carcinoma
+meg3	liver cancer
+meg3	liver fibrosis
+meg3	lung adenocarcinoma
+meg3	lung cancer
+meg3	lung non small cell carcinoma
+meg3	lung squamous cell carcinoma
+meg3	malignant melanoma
+meg3	melanoma
+meg3	metabolic syndrome
+meg3	multiple myeloma
+meg3	multiple sclerosis
+meg3	nasopharyngeal carcinoma
+meg3	nasopharynx carcinoma
+meg3	neuroblastoma
+meg3	oral squamous cell carcinoma
+meg3	osteoarthritis
+meg3	osteoporosis
+meg3	osteosarcoma
+meg3	pancreatic cancer
+meg3	pancreatic ductal adenocarcinoma
+meg3	papillary thyroid carcinoma
+meg3	parkinson disease
+meg3	pre eclampsia
+meg3	prostate cancer
+meg3	renal clear cell carcinoma
+meg3	retinoblastoma
+meg3	rheumatoid arthritis
+meg3	sars cov2
+meg3	sepsis
+meg3	stomach cancer
+meg3	t cell lymphoblastic lymphoma
+meg3	tongue squamous cell carcinoma
+meg3	triple negative breast cancer
+meg3	type 1 diabetes mellitus
+meg3	urinary bladder cancer
+meg8	angelman syndrome
+meg8	atherosclerosis
+meg8	colon cancer
+meg8	diabetic nephropathy
+meg8	esophageal cancer
+meg8	glioblastoma multiforme
+meg8	hepatocellular carcinoma
+meg8	liver fibrosis
+meg8	lung cancer
+meg8	lung non small cell carcinoma
+meg8	myocardial infarction
+meg8	osteoarthritis
+meg8	ovarian cancer
+meg8	pancreatic cancer
+meg8	thyroid cancer
+meg8	urinary bladder cancer
+mfi2-as1	clear cell renal cell carcinoma
+mfi2-as1	colorectal cancer
+mfi2-as1	glioma
+mfi2-as1	hepatocellular carcinoma
+miat	acute myeloid leukemia
+miat	alzheimer disease
+miat	angiogenesis
+miat	atherosclerosis
+miat	breast cancer
+miat	cervical cancer
+miat	cholangiocarcinoma
+miat	chronic lymphocytic leukemia
+miat	clear cell renal cell carcinoma
+miat	colorectal cancer
+miat	coronary artery disease
+miat	coronary atherosclerotic heart disease
+miat	diabetes mellitus
+miat	diabetic nephropathy
+miat	diabetic retinopathy
+miat	epithelial ovarian cancer
+miat	esophageal cancer
+miat	esophagus squamous cell carcinoma
+miat	gastric cancer
+miat	glioblastoma
+miat	glioma
+miat	hepatocellular carcinoma
+miat	intracranial aneurysm
+miat	ischemic stroke
+miat	lung adenocarcinoma
+miat	lung cancer
+miat	lung non small cell carcinoma
+miat	melanoma
+miat	multiple myeloma
+miat	nasopharynx carcinoma
+miat	neuroblastoma
+miat	osteoarthritis
+miat	osteosarcoma
+miat	pancreatic cancer
+miat	papillary thyroid carcinoma
+miat	parkinson disease
+miat	sars cov2
+miat	stomach cancer
+miat	systemic lupus erythematosus
+miat	tongue squamous cell carcinoma
+miat	tuberculosis
+mir155hg	astrocytoma
+mir155hg	breast cancer
+mir155hg	cervical cancer
+mir155hg	chronic lymphocytic leukemia
+mir155hg	clear cell renal cell carcinoma
+mir155hg	colon cancer
+mir155hg	colorectal cancer
+mir155hg	diffuse large b cell lymphoma
+mir155hg	gastric cancer
+mir155hg	glioblastoma
+mir155hg	glioma
+mir155hg	laryngeal squamous cell carcinoma
+mir155hg	liver cancer
+mir155hg	lung adenocarcinoma
+mir155hg	lung non small cell carcinoma
+mir155hg	melanoma
+mir155hg	ovarian cancer
+mir155hg	pancreatic cancer
+mir155hg	sepsis
+mir155hg	thyroid cancer
+mir17hg	astrocytoma
+mir17hg	colon cancer
+mir17hg	colorectal cancer
+mir17hg	diffuse large b cell lymphoma
+mir17hg	esophageal cancer
+mir17hg	glioblastoma
+mir17hg	glioma
+mir17hg	head and neck squamous cell carcinoma
+mir17hg	liver cancer
+mir17hg	lung non small cell carcinoma
+mir17hg	osteosarcoma
+mir17hg	papillary thyroid carcinoma
+mir17hg	parkinson disease
+mir17hg	prostate cancer
+mir17hg	type 1 diabetes mellitus
+mir4500hg	astrocytoma
+mir4500hg	esophageal cancer
+mir4500hg	glioblastoma multiforme
+mir4500hg	thyroid cancer
+mir497hg	esophageal cancer
+mir497hg	glioblastoma multiforme
+mir497hg	lung adenocarcinoma
+mir497hg	lung cancer
+mir497hg	melanoma
+mir497hg	sepsis
+mir497hg	thyroid cancer
+mir497hg	urinary bladder cancer
+mir600hg	astrocytoma
+mir600hg	colorectal cancer
+mir600hg	esophageal cancer
+mir600hg	pancreatic ductal adenocarcinoma
+mir600hg	tuberculosis
+mllt4-as1	gastric cancer
+neat1	acute ischemic stroke
+neat1	acute lymphoblastic leukemia
+neat1	acute myeloid leukemia
+neat1	acute promyelocytic leukemia
+neat1	alzheimer disease
+neat1	astrocytoma
+neat1	atherosclerosis
+neat1	autism spectrum disorder
+neat1	breast cancer
+neat1	cardiovascular system disease
+neat1	cervical cancer
+neat1	cholangiocarcinoma
+neat1	chronic lymphocytic leukemia
+neat1	chronic myeloid leukemia
+neat1	clear cell renal cell carcinoma
+neat1	colon cancer
+neat1	colorectal cancer
+neat1	colorectal carcinoma
+neat1	coronary artery disease
+neat1	coronary atherosclerotic heart disease
+neat1	degenerative disc disease
+neat1	diabetic nephropathy
+neat1	diabetic retinopathy
+neat1	diffuse large b cell lymphoma
+neat1	endometrial cancer
+neat1	endometrial carcinoma
+neat1	endometriosis
+neat1	esophageal cancer
+neat1	esophagus squamous cell carcinoma
+neat1	gallbladder cancer
+neat1	gastric cancer
+neat1	glioblastoma
+neat1	glioblastoma multiforme
+neat1	glioma
+neat1	hepatocellular cancer
+neat1	hepatocellular carcinoma
+neat1	hirschsprung disease
+neat1	infantile hemangioma
+neat1	kidney cortex necrosis
+neat1	laryngeal cancer
+neat1	laryngeal squamous cell carcinoma
+neat1	liver cancer
+neat1	liver fibrosis
+neat1	lung adenocarcinoma
+neat1	lung non small cell carcinoma
+neat1	lung squamous cell carcinoma
+neat1	lupus nephritis
+neat1	malignant melanoma
+neat1	melanoma
+neat1	multiple myeloma
+neat1	myocardial infarction
+neat1	nasopharyngeal carcinoma
+neat1	nasopharynx carcinoma
+neat1	neuroblastoma
+neat1	oral squamous cell carcinoma
+neat1	osteoarthritis
+neat1	osteoporosis
+neat1	osteosarcoma
+neat1	ovarian cancer
+neat1	pancreatic cancer
+neat1	pancreatic ductal adenocarcinoma
+neat1	papillary thyroid carcinoma
+neat1	parkinson disease
+neat1	polycystic ovary syndrome
+neat1	pre eclampsia
+neat1	prostate cancer
+neat1	pulmonary fibrosis
+neat1	retinoblastoma
+neat1	rheumatoid arthritis
+neat1	sars cov2
+neat1	sepsis
+neat1	stomach cancer
+neat1	systemic lupus erythematosus
+neat1	thyroid cancer
+neat1	thyroid carcinoma
+neat1	tongue squamous cell carcinoma
+neat1	triple negative breast cancer
+neat1	tuberculosis
+neat1	urinary bladder cancer
+nop14-as1	astrocytoma
+nop14-as1	esophageal cancer
+nop14-as1	gastric cancer
+nop14-as1	tongue squamous cell carcinoma
+nppa-as1	cardiovascular system disease
+nppa-as1	cervical cancer
+nppa-as1	esophageal cancer
+nr2f2-as1	cervical cancer
+nr2f2-as1	clear cell renal cell carcinoma
+nr2f2-as1	colorectal cancer
+nr2f2-as1	esophageal cancer
+nr2f2-as1	glioma
+nr2f2-as1	lung non small cell carcinoma
+nr2f2-as1	nasopharyngeal carcinoma
+nr2f2-as1	nasopharynx carcinoma
+nr2f2-as1	ovarian cancer
+nr2f2-as1	prostate cancer
+nr2f2-as1	thyroid cancer
+nutm2a-as1	astrocytoma
+nutm2a-as1	diffuse large b cell lymphoma
+nutm2a-as1	esophageal cancer
+nutm2a-as1	gastric cancer
+nutm2a-as1	lung non small cell carcinoma
+oip5-as1	acute myeloid leukemia
+oip5-as1	alzheimer disease
+oip5-as1	astrocytoma
+oip5-as1	atherosclerosis
+oip5-as1	breast cancer
+oip5-as1	breast carcinoma
+oip5-as1	cervical adenocarcinoma
+oip5-as1	cervical cancer
+oip5-as1	clear cell renal cell carcinoma
+oip5-as1	colon cancer
+oip5-as1	colorectal cancer
+oip5-as1	coronary atherosclerosis
+oip5-as1	endometrial carcinoma
+oip5-as1	esophageal cancer
+oip5-as1	esophagus squamous cell carcinoma
+oip5-as1	gastric cancer
+oip5-as1	glioblastoma multiforme
+oip5-as1	glioma
+oip5-as1	hepatoblastoma
+oip5-as1	hepatocellular carcinoma
+oip5-as1	laryngeal squamous cell carcinoma
+oip5-as1	lung adenocarcinoma
+oip5-as1	lung cancer
+oip5-as1	lung carcinoma
+oip5-as1	lung non small cell carcinoma
+oip5-as1	multiple myeloma
+oip5-as1	multiple sclerosis
+oip5-as1	nasopharynx carcinoma
+oip5-as1	oral squamous cell carcinoma
+oip5-as1	osteoarthritis
+oip5-as1	osteosarcoma
+oip5-as1	ovarian cancer
+oip5-as1	ovarian carcinoma
+oip5-as1	pancreatic cancer
+oip5-as1	pancreatic ductal adenocarcinoma
+oip5-as1	papillary thyroid carcinoma
+oip5-as1	parkinson disease
+oip5-as1	prostate cancer
+oip5-as1	retinoblastoma
+oip5-as1	thyroid cancer
+oip5-as1	urinary bladder cancer
+pcbp1-as1	acute myeloid leukemia
+pcbp1-as1	esophageal cancer
+pcbp1-as1	glioblastoma
+pcbp1-as1	lung adenocarcinoma
+pcbp1-as1	thyroid cancer
+pdxdc2p	alzheimer disease
+pdxdc2p	esophageal cancer
+pink1-as	astrocytoma
+pink1-as	breast cancer
+pink1-as	diabetes mellitus
+pink1-as	gastric cancer
+pink1-as	multiple sclerosis
+pink1-as	osteoarthritis
+pink1-as	parkinson disease
+pitpna-as1	astrocytoma
+pitpna-as1	cervical cancer
+pitpna-as1	glioblastoma
+pitpna-as1	hepatocellular carcinoma
+pitpna-as1	lung non small cell carcinoma
+pitpna-as1	lung squamous cell carcinoma
+pitpna-as1	papillary thyroid carcinoma
+pitpna-as1	triple negative breast cancer
+pitpna-as1	urinary bladder cancer
+prkag2-as1	castration resistant prostate carcinoma
+prkag2-as1	esophageal cancer
+prkag2-as1	esophagus squamous cell carcinoma
+prkag2-as1	glioma
+prkag2-as1	hepatocellular carcinoma
+prkag2-as1	thyroid cancer
+prkcq-as1	colon cancer
+prkcq-as1	colorectal cancer
+prkcq-as1	diffuse large b cell lymphoma
+prkcq-as1	gastric cancer
+prkcq-as1	glioblastoma
+prkcq-as1	osteoarthritis
+prkcq-as1	thyroid cancer
+prr7-as1	colon cancer
+prr7-as1	colorectal cancer
+prr7-as1	esophageal cancer
+prr7-as1	glioblastoma
+psmd6-as2	thyroid cancer
+psmg3-as1	alzheimer disease
+psmg3-as1	breast cancer
+psmg3-as1	glioblastoma
+psmg3-as1	lung adenocarcinoma
+psmg3-as1	lung squamous cell carcinoma
+ptov1-as1	esophageal cancer
+ptov1-as1	osteosarcoma
+ptprg-as1	astrocytoma
+ptprg-as1	breast cancer
+ptprg-as1	epithelial ovarian cancer
+ptprg-as1	esophageal cancer
+ptprg-as1	gastric cancer
+ptprg-as1	glioblastoma
+ptprg-as1	lung non small cell carcinoma
+ptprg-as1	nasopharyngeal carcinoma
+ptprg-as1	nasopharynx carcinoma
+ptprg-as1	osteosarcoma
+pvt1	acute ischemic stroke
+pvt1	acute lymphoblastic leukemia
+pvt1	acute myeloid leukemia
+pvt1	acute promyelocytic leukemia
+pvt1	astrocytoma
+pvt1	atherosclerosis
+pvt1	bladder urothelial carcinoma
+pvt1	breast cancer
+pvt1	cervical cancer
+pvt1	cervical squamous cell carcinoma
+pvt1	cholangiocarcinoma
+pvt1	clear cell renal cell carcinoma
+pvt1	colon cancer
+pvt1	colorectal cancer
+pvt1	coronary artery disease
+pvt1	coronary heart disease
+pvt1	diabetes mellitus
+pvt1	diabetic nephropathy
+pvt1	diabetic retinopathy
+pvt1	diffuse large b cell lymphoma
+pvt1	endometrial cancer
+pvt1	endometrial carcinoma
+pvt1	epithelial ovarian cancer
+pvt1	esophageal cancer
+pvt1	esophageal carcinoma
+pvt1	esophagus squamous cell carcinoma
+pvt1	gallbladder cancer
+pvt1	glioblastoma multiforme
+pvt1	head and neck squamous cell carcinoma
+pvt1	hepatoblastoma
+pvt1	hepatocellular cancer
+pvt1	hepatocellular carcinoma
+pvt1	laryngeal squamous cell carcinoma
+pvt1	liver cancer
+pvt1	liver fibrosis
+pvt1	lung adenocarcinoma
+pvt1	lung cancer
+pvt1	lung non small cell carcinoma
+pvt1	lung squamous cell carcinoma
+pvt1	melanoma
+pvt1	multiple myeloma
+pvt1	myocardial infarction
+pvt1	nasopharyngeal carcinoma
+pvt1	nasopharynx carcinoma
+pvt1	neuroblastoma
+pvt1	oral squamous cell carcinoma
+pvt1	osteoarthritis
+pvt1	osteosarcoma
+pvt1	pancreatic cancer
+pvt1	pancreatic ductal adenocarcinoma
+pvt1	papillary thyroid carcinoma
+pvt1	polycystic ovary syndrome
+pvt1	pre eclampsia
+pvt1	prostate cancer
+pvt1	pulmonary fibrosis
+pvt1	renal cancer
+pvt1	renal carcinoma
+pvt1	retinoblastoma
+pvt1	rheumatoid arthritis
+pvt1	sepsis
+pvt1	stomach cancer
+pvt1	systemic lupus erythematosus
+pvt1	triple negative breast cancer
+pvt1	type 1 diabetes mellitus
+pvt1	urinary bladder cancer
+ramp2-as1	astrocytoma
+ramp2-as1	glioblastoma
+ramp2-as1	lung adenocarcinoma
+ramp2-as1	thyroid cancer
+rasal2-as1	esophageal cancer
+rasal2-as1	gastric cancer
+rhpn1-as1	breast cancer
+rhpn1-as1	cervical cancer
+rhpn1-as1	colorectal cancer
+rhpn1-as1	endometrial cancer
+rhpn1-as1	epithelial ovarian cancer
+rhpn1-as1	esophageal cancer
+rhpn1-as1	gastric cancer
+rhpn1-as1	glioma
+rhpn1-as1	head and neck squamous cell carcinoma
+rhpn1-as1	hepatocellular carcinoma
+rhpn1-as1	lung non small cell carcinoma
+rhpn1-as1	nasopharynx carcinoma
+rhpn1-as1	osteoarthritis
+rhpn1-as1	osteosarcoma
+rhpn1-as1	prostate cancer
+rhpn1-as1	retinoblastoma
+rn7sl1	breast cancer
+rn7sl1	esophageal cancer
+rn7sl1	parkinson disease
+rnu12	rheumatoid arthritis
+rnu12	thyroid cancer
+rnu4atac	systemic lupus erythematosus
+rp1-193h18.2	hepatocellular carcinoma
+rp1-193h18.2	osteoarthritis
+rp1-193h18.2	pancreatic ductal adenocarcinoma
+rp1-193h18.2	thyroid cancer
+rp1-197b17.3	esophageal cancer
+rp1-228h13.5	esophageal cancer
+rp1-228h13.5	thyroid cancer
+rp1-239b22.5	esophageal cancer
+rp11-102f4.3	lung squamous cell carcinoma
+rp11-104h15.7	esophageal cancer
+rp11-1055b8.4	esophageal cancer
+rp11-1055b8.4	pancreatic ductal adenocarcinoma
+rp11-105n13.4	thyroid cancer
+rp11-108m9.3	esophageal cancer
+rp11-108m9.3	thyroid cancer
+rp11-1103g16.1	esophageal cancer
+rp11-1134i14.8	esophageal cancer
+rp11-1134i14.8	thyroid cancer
+rp11-1149o23.3	esophageal cancer
+rp11-1149o23.3	thyroid cancer
+rp11-115c21.2	esophageal cancer
+rp11-115d19.1	esophageal cancer
+rp11-115d19.1	thyroid cancer
+rp11-119k6.6	thyroid cancer
+rp11-11n9.4	esophageal cancer
+rp11-11n9.4	nasopharyngeal carcinoma
+rp11-11n9.4	nasopharynx carcinoma
+rp11-11n9.4	thyroid cancer
+rp11-120d5.1	esophageal cancer
+rp11-120d5.1	thyroid cancer
+rp11-126o1.5	esophageal cancer
+rp11-133n21.10	thyroid cancer
+rp11-154j22.1	esophageal cancer
+rp11-156l14.1	hypopharyngeal squamous cell carcinoma
+rp11-156l14.1	thyroid cancer
+rp11-158h5.7	esophageal cancer
+rp11-158i13.2	esophageal cancer
+rp11-158k1.3	esophageal cancer
+rp11-15a1.3	thyroid cancer
+rp11-15h20.6	breast cancer
+rp11-15h20.6	osteoarthritis
+rp11-160e2.6	esophageal cancer
+rp11-160e2.6	thyroid cancer
+rp11-160o5.1	esophageal cancer
+rp11-160o5.1	esophagus squamous cell carcinoma
+rp11-160o5.1	thyroid cancer
+rp11-161m6.2	pancreatic ductal adenocarcinoma
+rp11-161m6.2	thyroid cancer
+rp11-169d4.1	laryngeal squamous cell carcinoma
+rp11-16b13.1	thyroid cancer
+rp11-174g6.5	osteoarthritis
+rp11-175k6.1	esophageal cancer
+rp11-175k6.1	lung cancer
+rp11-175k6.1	thyroid cancer
+rp11-181e10.3	esophageal cancer
+rp11-181e10.3	osteoarthritis
+rp11-199f11.2	epithelial ovarian cancer
+rp11-199f11.2	esophageal cancer
+rp11-203j24.9	thyroid cancer
+rp11-20g6.3	osteoarthritis
+rp11-214o1.2	esophageal cancer
+rp11-218m22.1	esophageal cancer
+rp11-21a7a.3	thyroid cancer
+rp11-21j18.1	thyroid cancer
+rp11-221j22.2	colorectal cancer
+rp11-227g15.3	esophageal cancer
+rp11-228b15.4	esophageal cancer
+rp11-229p13.25	thyroid cancer
+rp11-23j9.4	esophageal cancer
+rp11-244o19.1	esophageal cancer
+rp11-244o19.1	thyroid cancer
+rp11-261c10.5	esophageal cancer
+rp11-264b17.3	esophageal cancer
+rp11-264l1.3	thyroid cancer
+rp11-276h19.1	esophageal cancer
+rp11-276h19.1	thyroid cancer
+rp11-276h19.2	esophageal cancer
+rp11-276h19.2	thyroid cancer
+rp11-277p12.20	esophageal cancer
+rp11-283c24.1	esophageal cancer
+rp11-283c24.1	thyroid cancer
+rp11-284n8.3	esophageal cancer
+rp11-284n8.3	lung squamous cell carcinoma
+rp11-284n8.3	sepsis
+rp11-284n8.3	thyroid cancer
+rp11-290f20.3	lung adenocarcinoma
+rp11-293m10.6	thyroid cancer
+rp11-298i3.1	esophageal cancer
+rp11-29g8.3	esophageal cancer
+rp11-29g8.3	multiple sclerosis
+rp11-303e16.2	cervical cancer
+rp11-303e16.2	esophageal cancer
+rp11-303e16.8	thyroid cancer
+rp11-30j20.1	esophageal cancer
+rp11-30j20.1	hepatocellular carcinoma
+rp11-30j20.1	thyroid cancer
+rp11-310h4.2	esophageal cancer
+rp11-310h4.2	osteoarthritis
+rp11-325k4.3	esophageal cancer
+rp11-325k4.3	thyroid cancer
+rp11-355o1.11	esophageal cancer
+rp11-355o1.11	thyroid cancer
+rp11-361f15.2	osteosarcoma
+rp11-362f19.1	thyroid cancer
+rp11-363e7.4	diabetic nephropathy
+rp11-363e7.4	esophageal cancer
+rp11-363e7.4	gastric cancer
+rp11-363e7.4	hepatocellular carcinoma
+rp11-363e7.4	thyroid cancer
+rp11-363g2.4	degenerative disc disease
+rp11-363g2.4	esophageal cancer
+rp11-363g2.4	esophagus squamous cell carcinoma
+rp11-363g2.4	intervertebral disc degeneration
+rp11-363g2.4	thyroid cancer
+rp11-373l24.1	esophageal cancer
+rp11-379k17.4	esophageal cancer
+rp11-379k17.4	thyroid cancer
+rp11-37b2.1	esophageal cancer
+rp11-37b2.1	tuberculosis
+rp11-380l11.4	esophageal cancer
+rp11-384k6.6	esophageal cancer
+rp11-384o8.1	thyroid cancer
+rp11-384o8.1	tuberculosis
+rp11-38p22.2	colorectal cancer
+rp11-38p22.2	gastric cancer
+rp11-38p22.2	glioblastoma
+rp11-38p22.2	glioma
+rp11-392p7.6	colorectal cancer
+rp11-392p7.6	esophageal cancer
+rp11-392p7.6	thyroid cancer
+rp11-395g23.3	colorectal cancer
+rp11-395g23.3	endometrial cancer
+rp11-398k22.12	glioblastoma
+rp11-400f19.6	esophageal cancer
+rp11-403i13.8	esophageal cancer
+rp11-403i13.8	thyroid cancer
+rp11-405o10.2	thyroid cancer
+rp11-408b11.2	esophageal cancer
+rp11-408b11.2	thyroid cancer
+rp11-412d9.4	esophageal cancer
+rp11-418j17.1	esophageal cancer
+rp11-418j17.3	esophageal cancer
+rp11-418j17.3	thyroid cancer
+rp11-421l21.3	esophageal cancer
+rp11-425i13.3	parkinson disease
+rp11-429j17.2	esophageal cancer
+rp11-429j17.7	esophageal cancer
+rp11-435o5.2	colorectal cancer
+rp11-438b23.2	esophageal cancer
+rp11-438b23.2	thyroid cancer
+rp11-445f12.1	esophageal cancer
+rp11-452l6.5	esophageal cancer
+rp11-457m11.2	lung adenocarcinoma
+rp11-457m11.5	osteoarthritis
+rp11-457m11.5	thyroid cancer
+rp11-458d21.1	esophageal cancer
+rp11-458d21.1	thyroid cancer
+rp11-461a8.4	esophageal cancer
+rp11-461a8.4	thyroid cancer
+rp11-461l13.3	osteoarthritis
+rp11-461l13.3	thyroid cancer
+rp11-464f9.1	thyroid cancer
+rp11-46a10.5	esophageal cancer
+rp11-473i1.9	esophageal cancer
+rp11-473m20.16	esophageal cancer
+rp11-477d19.2	esophageal cancer
+rp11-477d19.2	thyroid cancer
+rp11-480a16.1	osteoarthritis
+rp11-488i20.9	esophageal cancer
+rp11-488i20.9	esophagus squamous cell carcinoma
+rp11-492e3.1	glioblastoma
+rp11-492e3.2	esophageal cancer
+rp11-496i9.1	esophageal cancer
+rp11-496i9.1	thyroid cancer
+rp11-497h16.9	esophageal cancer
+rp11-499p20.2	thyroid cancer
+rp11-49i11.1	esophageal cancer
+rp11-4o1.2	esophageal cancer
+rp11-4o1.2	thyroid cancer
+rp11-502i4.3	osteoarthritis
+rp11-506m13.3	esophageal cancer
+rp11-517p14.2	esophageal cancer
+rp11-519m16.1	esophageal cancer
+rp11-529k1.2	prostate cancer
+rp11-540o11.1	esophageal cancer
+rp11-54o7.1	esophageal cancer
+rp11-54o7.14	esophageal cancer
+rp11-54o7.2	esophageal cancer
+rp11-54o7.3	esophageal cancer
+rp11-54o7.3	thyroid cancer
+rp11-552m11.4	cervical cancer
+rp11-552m11.4	esophageal cancer
+rp11-552m11.4	gastric cancer
+rp11-552m11.4	ovarian cancer
+rp11-553l6.5	esophageal cancer
+rp11-553l6.5	thyroid cancer
+rp11-571m6.18	cervical squamous cell carcinoma
+rp11-57h14.4	esophageal cancer
+rp11-588k22.2	esophageal cancer
+rp11-613d13.8	esophageal cancer
+rp11-613d13.8	thyroid cancer
+rp11-620j15.3	esophageal cancer
+rp11-620j15.3	thyroid cancer
+rp11-649g15.2	esophageal cancer
+rp11-657o9.1	esophageal cancer
+rp11-657o9.1	esophagus squamous cell carcinoma
+rp11-657o9.1	thyroid cancer
+rp11-658f2.8	osteoarthritis
+rp11-66b24.4	esophageal cancer
+rp11-66n24.4	esophageal cancer
+rp11-66n24.4	thyroid cancer
+rp11-672a2.1	esophageal cancer
+rp11-677m14.3	esophageal cancer
+rp11-677m14.3	thyroid cancer
+rp11-677m14.7	esophageal cancer
+rp11-677m14.7	thyroid cancer
+rp11-67l3.4	esophageal cancer
+rp11-690d19.3	atherosclerosis
+rp11-690d19.3	esophageal cancer
+rp11-693j15.5	esophageal cancer
+rp11-696n14.1	esophageal cancer
+rp11-696n14.1	thyroid cancer
+rp11-69e11.4	esophageal cancer
+rp11-69e11.4	thyroid cancer
+rp11-701h24.4	esophageal cancer
+rp11-701h24.4	thyroid cancer
+rp11-701h24.5	thyroid cancer
+rp11-705c15.3	esophageal cancer
+rp11-705c15.3	osteoarthritis
+rp11-715f3.2	esophageal cancer
+rp11-727a23.5	esophageal cancer
+rp11-727a23.5	osteoarthritis
+rp11-727a23.5	thyroid cancer
+rp11-730k11.1	thyroid cancer
+rp11-732m18.3	glioma
+rp11-73m18.8	hepatocellular carcinoma
+rp11-74e22.3	thyroid cancer
+rp11-758m4.4	esophageal cancer
+rp11-758m4.4	gastric cancer
+rp11-767n6.7	esophageal cancer
+rp11-77h9.2	esophageal cancer
+rp11-795f19.1	esophageal cancer
+rp11-797a18.6	thyroid cancer
+rp11-80h5.7	ovarian cancer
+rp11-80h5.7	thyroid cancer
+rp11-819c21.1	esophageal cancer
+rp11-819c21.1	osteoarthritis
+rp11-834c11.4	esophageal cancer
+rp11-834c11.4	pancreatic ductal adenocarcinoma
+rp11-834c11.4	thyroid cancer
+rp11-845m18.6	thyroid cancer
+rp11-872j21.3	epithelial ovarian cancer
+rp11-872j21.3	esophageal cancer
+rp11-890b15.3	esophageal cancer
+rp11-890b15.3	triple negative breast cancer
+rp11-96d1.10	esophageal cancer
+rp11-96d1.6	esophageal cancer
+rp11-977g19.5	neuroblastoma
+rp11-983p16.4	esophageal cancer
+rp11-983p16.4	osteoarthritis
+rp11-98d18.9	esophageal cancer
+rp11-98d18.9	thyroid cancer
+rp11-996f15.2	esophageal cancer
+rp11-996f15.2	osteoarthritis
+rp13-638c3.2	esophageal cancer
+rp13-890h12.2	esophageal cancer
+rp3-331h24.5	thyroid cancer
+rp3-368a4.5	esophageal cancer
+rp3-508i15.9	esophageal cancer
+rp3-510o8.4	thyroid cancer
+rp3-523k23.2	esophageal cancer
+rp3-523k23.2	lung squamous cell carcinoma
+rp4-564f22.2	colorectal cancer
+rp4-647j21.1	esophageal cancer
+rp4-647j21.1	thyroid cancer
+rp4-665n4.8	esophageal cancer
+rp4-714d9.5	esophageal cancer
+rp4-717i23.3	esophageal cancer
+rp4-785g19.5	colorectal cancer
+rp4-806m20.3	thyroid cancer
+rp5-1024g6.5	esophageal cancer
+rp5-1028k7.2	esophageal cancer
+rp5-1061h20.4	breast cancer
+rp5-1061h20.4	esophageal cancer
+rp5-1061h20.4	thyroid cancer
+rp5-1120p11.1	alzheimer disease
+rp5-1120p11.1	colorectal cancer
+rp5-1120p11.1	esophageal cancer
+rp5-1120p11.1	thyroid cancer
+rp5-1186n24.3	thyroid cancer
+rp5-1198o20.4	esophageal cancer
+rp5-1198o20.4	gastric cancer
+rp5-837j1.2	ovarian cancer
+rp5-875o13.1	esophageal cancer
+rp5-890o3.9	esophageal cancer
+rp6-201g10.2	esophageal cancer
+rp6-201g10.2	thyroid cancer
+rp6-24a23.7	esophageal cancer
+rp6-24a23.7	lung squamous cell carcinoma
+rp6-24a23.7	thyroid cancer
+rp6-65g23.3	esophageal cancer
+rpph1	acute myeloid leukemia
+rpph1	alzheimer disease
+rpph1	breast cancer
+rpph1	colorectal cancer
+rpph1	esophageal cancer
+rpph1	gastric cancer
+rpph1	osteoarthritis
+rpph1	stomach cancer
+rps10p7	osteoarthritis
+rusc1-as1	astrocytoma
+rusc1-as1	breast cancer
+rusc1-as1	cervical cancer
+rusc1-as1	head and neck squamous cell carcinoma
+rusc1-as1	hepatocellular carcinoma
+rusc1-as1	osteosarcoma
+sbf2-as1	acute myeloid leukemia
+sbf2-as1	astrocytoma
+sbf2-as1	breast cancer
+sbf2-as1	cervical cancer
+sbf2-as1	clear cell renal cell carcinoma
+sbf2-as1	colorectal cancer
+sbf2-as1	esophageal cancer
+sbf2-as1	esophagus squamous cell carcinoma
+sbf2-as1	gastric cancer
+sbf2-as1	glioblastoma
+sbf2-as1	glioma
+sbf2-as1	hepatocellular carcinoma
+sbf2-as1	lung adenocarcinoma
+sbf2-as1	lung non small cell carcinoma
+sbf2-as1	osteosarcoma
+sbf2-as1	pancreatic cancer
+sbf2-as1	papillary thyroid carcinoma
+scamp1	glioma
+scamp1	ovarian cancer
+scamp1	renal cell carcinoma
+scarna10	gastric cancer
+scarna10	systemic lupus erythematosus
+scarna2	colorectal cancer
+scarna2	cutaneous squamous cell carcinoma
+scarna2	gastric cancer
+scarna2	parkinson disease
+scarna9	cervical cancer
+scarna9	colon cancer
+scarna9	endometrial cancer
+scarna9	endometrial carcinoma
+scarna9	glioblastoma
+sdcbp2-as1	astrocytoma
+sdcbp2-as1	heart failure
+sdcbp2-as1	ovarian cancer
+sdcbp2-as1	thyroid cancer
+sdcbp2-as1	urinary bladder cancer
+senp3-eif4a1	hepatocellular carcinoma
+sh3bp5-as1	astrocytoma
+sh3bp5-as1	esophageal cancer
+sh3bp5-as1	ischemic stroke
+sh3bp5-as1	lung adenocarcinoma
+sh3bp5-as1	neuroblastoma
+sh3bp5-as1	osteoarthritis
+sh3bp5-as1	pancreatic cancer
+sh3bp5-as1	thyroid cancer
+sik3-it1	esophageal cancer
+sik3-it1	thyroid cancer
+slc26a4-as1	alzheimer disease
+slc26a4-as1	astrocytoma
+slc26a4-as1	breast cancer
+slc26a4-as1	esophageal cancer
+slc26a4-as1	gastric cancer
+slc26a4-as1	papillary thyroid carcinoma
+slc26a4-as1	thyroid cancer
+slx1a-sult1a3	neuroblastoma
+slx1b-sult1a4	urinary bladder cancer
+snhg1	acute myeloid leukemia
+snhg1	alzheimer disease
+snhg1	astrocytoma
+snhg1	atherosclerosis
+snhg1	breast cancer
+snhg1	cervical cancer
+snhg1	cholangiocarcinoma
+snhg1	clear cell renal cell carcinoma
+snhg1	colon cancer
+snhg1	colorectal cancer
+snhg1	colorectal carcinoma
+snhg1	esophageal cancer
+snhg1	esophagus squamous cell carcinoma
+snhg1	gastric cancer
+snhg1	glioblastoma
+snhg1	glioma
+snhg1	hepatocellular cancer
+snhg1	hepatocellular carcinoma
+snhg1	intervertebral disc degeneration
+snhg1	ischemic stroke
+snhg1	laryngeal cancer
+snhg1	laryngeal squamous cell carcinoma
+snhg1	liver cancer
+snhg1	lung cancer
+snhg1	lung non small cell carcinoma
+snhg1	lung squamous cell carcinoma
+snhg1	nasopharyngeal carcinoma
+snhg1	nasopharynx carcinoma
+snhg1	neuroblastoma
+snhg1	oral squamous cell carcinoma
+snhg1	osteoarthritis
+snhg1	osteosarcoma
+snhg1	ovarian cancer
+snhg1	ovarian carcinoma
+snhg1	pancreatic cancer
+snhg1	pancreatic ductal adenocarcinoma
+snhg1	papillary thyroid carcinoma
+snhg1	parkinson disease
+snhg1	prostate cancer
+snhg1	renal cell carcinoma
+snhg1	rheumatoid arthritis
+snhg1	stomach cancer
+snhg1	systemic lupus erythematosus
+snhg1	urinary bladder cancer
+snhg12	astrocytoma
+snhg12	atherosclerosis
+snhg12	breast cancer
+snhg12	cervical cancer
+snhg12	cervical squamous cell carcinoma
+snhg12	clear cell renal cell carcinoma
+snhg12	colorectal cancer
+snhg12	endometrial cancer
+snhg12	endometrial carcinoma
+snhg12	esophageal cancer
+snhg12	esophagus squamous cell carcinoma
+snhg12	gastric cancer
+snhg12	gastric carcinoma
+snhg12	glioblastoma
+snhg12	glioma
+snhg12	hepatocellular carcinoma
+snhg12	ischemic stroke
+snhg12	laryngeal cancer
+snhg12	laryngeal squamous cell carcinoma
+snhg12	liver cancer
+snhg12	lung adenocarcinoma
+snhg12	lung non small cell carcinoma
+snhg12	nasopharynx carcinoma
+snhg12	oral squamous cell carcinoma
+snhg12	osteosarcoma
+snhg12	ovarian cancer
+snhg12	pancreatic cancer
+snhg12	papillary thyroid carcinoma
+snhg12	parkinson disease
+snhg12	pre eclampsia
+snhg12	prostate cancer
+snhg12	stomach cancer
+snhg12	triple negative breast cancer
+snhg12	urinary bladder cancer
+snhg14	acute myeloid leukemia
+snhg14	alzheimer disease
+snhg14	angelman syndrome
+snhg14	breast cancer
+snhg14	cervical cancer
+snhg14	clear cell renal cell carcinoma
+snhg14	colorectal cancer
+snhg14	diffuse large b cell lymphoma
+snhg14	endometrial carcinoma
+snhg14	esophageal cancer
+snhg14	gastric cancer
+snhg14	glioma
+snhg14	hepatocellular carcinoma
+snhg14	kidney cortex necrosis
+snhg14	lung adenocarcinoma
+snhg14	lung non small cell carcinoma
+snhg14	osteosarcoma
+snhg14	ovarian cancer
+snhg14	pancreatic cancer
+snhg14	pancreatic ductal adenocarcinoma
+snhg14	pre eclampsia
+snhg14	prostate cancer
+snhg14	retinoblastoma
+snhg14	rheumatoid arthritis
+snhg14	stomach cancer
+snhg14	thyroid cancer
+snhg15	acute myeloid leukemia
+snhg15	breast cancer
+snhg15	clear cell renal cell carcinoma
+snhg15	colon cancer
+snhg15	colorectal cancer
+snhg15	diabetic nephropathy
+snhg15	epithelial ovarian cancer
+snhg15	esophageal cancer
+snhg15	gastric cancer
+snhg15	glioblastoma
+snhg15	glioma
+snhg15	hepatocellular cancer
+snhg15	hepatocellular carcinoma
+snhg15	ischemic stroke
+snhg15	liver cancer
+snhg15	lung adenocarcinoma
+snhg15	lung cancer
+snhg15	lung non small cell carcinoma
+snhg15	nasopharynx carcinoma
+snhg15	oral squamous cell carcinoma
+snhg15	osteoarthritis
+snhg15	osteosarcoma
+snhg15	pancreatic cancer
+snhg15	pancreatic ductal adenocarcinoma
+snhg15	papillary thyroid carcinoma
+snhg15	prostate cancer
+snhg15	renal cell carcinoma
+snhg15	stomach cancer
+snhg15	systemic lupus erythematosus
+snhg15	thyroid cancer
+snhg15	urinary bladder cancer
+snhg16	acute lymphoblastic leukemia
+snhg16	atherosclerosis
+snhg16	breast cancer
+snhg16	cervical cancer
+snhg16	cholangiocarcinoma
+snhg16	clear cell renal cell carcinoma
+snhg16	colon cancer
+snhg16	colorectal cancer
+snhg16	coronary heart disease
+snhg16	diabetic retinopathy
+snhg16	diffuse large b cell lymphoma
+snhg16	endometrial cancer
+snhg16	endometrial carcinoma
+snhg16	esophageal cancer
+snhg16	esophagus squamous cell carcinoma
+snhg16	gastric cancer
+snhg16	glioblastoma
+snhg16	glioma
+snhg16	hepatocellular carcinoma
+snhg16	laryngeal squamous cell carcinoma
+snhg16	liver cancer
+snhg16	lung non small cell carcinoma
+snhg16	melanoma
+snhg16	multiple myeloma
+snhg16	nasopharynx carcinoma
+snhg16	neuroblastoma
+snhg16	oral squamous cell carcinoma
+snhg16	osteoarthritis
+snhg16	osteosarcoma
+snhg16	ovarian cancer
+snhg16	pancreatic cancer
+snhg16	papillary thyroid carcinoma
+snhg16	pre eclampsia
+snhg16	prostate cancer
+snhg16	retinoblastoma
+snhg16	stomach cancer
+snhg16	urinary bladder cancer
+snhg3	acute myeloid leukemia
+snhg3	alzheimer disease
+snhg3	breast cancer
+snhg3	cervical cancer
+snhg3	chronic myeloid leukemia
+snhg3	clear cell renal cell carcinoma
+snhg3	colorectal cancer
+snhg3	esophageal cancer
+snhg3	gastric cancer
+snhg3	glioma
+snhg3	hepatocellular cancer
+snhg3	hepatocellular carcinoma
+snhg3	intrahepatic cholangiocarcinoma
+snhg3	laryngeal cancer
+snhg3	laryngeal squamous cell carcinoma
+snhg3	liver cancer
+snhg3	lung adenocarcinoma
+snhg3	lung non small cell carcinoma
+snhg3	oral squamous cell carcinoma
+snhg3	osteosarcoma
+snhg3	ovarian cancer
+snhg3	papillary thyroid carcinoma
+snhg3	parkinson disease
+snhg3	prostate cancer
+snhg3	systemic lupus erythematosus
+snhg3	triple negative breast cancer
+snhg3	urinary bladder cancer
+snhg5	acute myeloid leukemia
+snhg5	astrocytoma
+snhg5	bladder carcinoma
+snhg5	breast cancer
+snhg5	chronic myeloid leukemia
+snhg5	clear cell renal cell carcinoma
+snhg5	colorectal cancer
+snhg5	diabetes mellitus
+snhg5	endometrial cancer
+snhg5	endometrial carcinoma
+snhg5	esophageal cancer
+snhg5	esophagus squamous cell carcinoma
+snhg5	gastric cancer
+snhg5	glioblastoma
+snhg5	glioma
+snhg5	hepatocellular carcinoma
+snhg5	kawasaki disease
+snhg5	liver cancer
+snhg5	lung adenocarcinoma
+snhg5	malignant melanoma
+snhg5	nasopharyngeal carcinoma
+snhg5	nasopharynx carcinoma
+snhg5	neuroblastoma
+snhg5	neuropathic pain
+snhg5	oral squamous cell carcinoma
+snhg5	osteoarthritis
+snhg5	osteoporosis
+snhg5	osteosarcoma
+snhg5	ovarian cancer
+snhg5	parkinson disease
+snhg5	pre eclampsia
+snhg5	prostate cancer
+snhg5	stomach cancer
+snhg5	systemic lupus erythematosus
+snhg5	t cell acute lymphoblastic leukemia
+snhg5	thyroid cancer
+snhg5	urinary bladder cancer
+snhg6	astrocytoma
+snhg6	atherosclerosis
+snhg6	breast cancer
+snhg6	cholangiocarcinoma
+snhg6	clear cell renal cell carcinoma
+snhg6	colorectal cancer
+snhg6	diabetic nephropathy
+snhg6	esophageal cancer
+snhg6	esophagus squamous cell carcinoma
+snhg6	gallbladder carcinoma
+snhg6	gastric cancer
+snhg6	glioblastoma
+snhg6	glioma
+snhg6	head and neck squamous cell carcinoma
+snhg6	hepatocellular cancer
+snhg6	hepatocellular carcinoma
+snhg6	lung adenocarcinoma
+snhg6	lung non small cell carcinoma
+snhg6	nasopharynx carcinoma
+snhg6	osteosarcoma
+snhg6	pancreatic cancer
+snhg6	parkinson disease
+snhg6	prostate cancer
+snhg6	renal cell carcinoma
+snhg6	stomach cancer
+snhg6	tongue cancer
+snhg6	urinary bladder cancer
+snhg7	astrocytoma
+snhg7	atherosclerosis
+snhg7	breast cancer
+snhg7	cervical cancer
+snhg7	colon cancer
+snhg7	colorectal cancer
+snhg7	diabetic retinopathy
+snhg7	esophageal cancer
+snhg7	gastric cancer
+snhg7	glioblastoma
+snhg7	head and neck squamous cell carcinoma
+snhg7	hepatic carcinoma
+snhg7	hepatocellular carcinoma
+snhg7	liver fibrosis
+snhg7	lung adenocarcinoma
+snhg7	lung cancer
+snhg7	lung non small cell carcinoma
+snhg7	malignant melanoma
+snhg7	nasopharyngeal carcinoma
+snhg7	nasopharynx carcinoma
+snhg7	neuroblastoma
+snhg7	osteoarthritis
+snhg7	osteosarcoma
+snhg7	ovarian cancer
+snhg7	pancreatic cancer
+snhg7	prostate cancer
+snhg7	stomach cancer
+snhg7	thyroid cancer
+snhg7	thyroid carcinoma
+snhg7	urinary bladder cancer
+snhg8	atherosclerosis
+snhg8	breast cancer
+snhg8	cervical cancer
+snhg8	colorectal cancer
+snhg8	endometrial cancer
+snhg8	esophagus squamous cell carcinoma
+snhg8	gastric cancer
+snhg8	hepatocellular carcinoma
+snhg8	lung non small cell carcinoma
+snhg8	nasopharynx carcinoma
+snhg8	neuroblastoma
+snhg8	osteosarcoma
+snhg8	ovarian carcinoma
+snhg8	sars cov2
+snhg8	stomach cancer
+sos1-it1	endometrial cancer
+srrm2-as1	esophageal cancer
+srrm2-as1	hepatocellular carcinoma
+srrm2-as1	thyroid cancer
+st8sia6-as1	breast cancer
+st8sia6-as1	cholangiocarcinoma
+st8sia6-as1	colorectal cancer
+st8sia6-as1	esophageal cancer
+st8sia6-as1	hepatocellular carcinoma
+st8sia6-as1	lung adenocarcinoma
+st8sia6-as1	lung cancer
+st8sia6-as1	pancreatic cancer
+st8sia6-as1	thyroid cancer
+st8sia6-as1	urinary bladder cancer
+tbc1d3p1-dhx40p1	thyroid cancer
+tbx5-as1	esophageal cancer
+tbx5-as1	lung adenocarcinoma
+tbx5-as1	lung non small cell carcinoma
+tdrg1	cervical cancer
+tdrg1	diabetic retinopathy
+tdrg1	endometrial cancer
+tdrg1	endometrial carcinoma
+tdrg1	epithelial ovarian cancer
+tdrg1	esophageal cancer
+tdrg1	esophagus squamous cell carcinoma
+tdrg1	gastric cancer
+tdrg1	gastric carcinoma
+tdrg1	glioblastoma multiforme
+tdrg1	lung non small cell carcinoma
+tdrg1	osteosarcoma
+tdrg1	pre eclampsia
+tdrg1	stomach cancer
+tdrg1	stomach carcinoma
+tdrg1	systemic lupus erythematosus
+tdrg1	thyroid cancer
+thap7-as1	esophageal cancer
+thap9-as1	breast cancer
+thap9-as1	esophageal cancer
+thap9-as1	esophagus squamous cell carcinoma
+thap9-as1	gastric cancer
+thap9-as1	glioblastoma
+thap9-as1	nasopharyngeal carcinoma
+thap9-as1	nasopharynx carcinoma
+thap9-as1	pancreatic ductal adenocarcinoma
+tincr	astrocytoma
+tincr	breast cancer
+tincr	cervical squamous cell carcinoma
+tincr	clear cell renal cell carcinoma
+tincr	colorectal cancer
+tincr	cutaneous squamous cell carcinoma
+tincr	epithelial ovarian cancer
+tincr	esophageal cancer
+tincr	esophagus squamous cell carcinoma
+tincr	gastric cancer
+tincr	glioblastoma
+tincr	glioma
+tincr	hepatocellular carcinoma
+tincr	lung adenocarcinoma
+tincr	lung cancer
+tincr	lung non small cell carcinoma
+tincr	lung squamous cell carcinoma
+tincr	oral squamous cell carcinoma
+tincr	prostate cancer
+tincr	retinoblastoma
+tincr	stomach cancer
+tincr	thyroid cancer
+tincr	urinary bladder cancer
+tm4sf19-as1	esophageal cancer
+tmem161b-as1	astrocytoma
+tmem161b-as1	esophageal cancer
+tmem161b-as1	osteoarthritis
+tmpo-as1	astrocytoma
+tmpo-as1	breast cancer
+tmpo-as1	cervical cancer
+tmpo-as1	colorectal cancer
+tmpo-as1	esophageal cancer
+tmpo-as1	gastric cancer
+tmpo-as1	hepatocellular carcinoma
+tmpo-as1	laryngeal squamous cell carcinoma
+tmpo-as1	lung adenocarcinoma
+tmpo-as1	lung non small cell carcinoma
+tmpo-as1	nasopharynx carcinoma
+tmpo-as1	osteosarcoma
+tmpo-as1	ovarian cancer
+tmpo-as1	polycystic ovary syndrome
+tmpo-as1	prostate cancer
+tmpo-as1	retinoblastoma
+tmpo-as1	triple negative breast cancer
+tmpo-as1	urinary bladder cancer
+tob1-as1	cervical cancer
+tob1-as1	esophageal cancer
+tob1-as1	gastric cancer
+tob1-as1	lung non small cell carcinoma
+tob1-as1	multiple sclerosis
+tp53tg1	colon cancer
+tp53tg1	colorectal cancer
+tp53tg1	gastric cancer
+tp53tg1	glioblastoma multiforme
+tp53tg1	glioma
+tp53tg1	lung adenocarcinoma
+tp53tg1	lung non small cell carcinoma
+tp53tg1	ovarian cancer
+tp53tg1	pancreatic ductal adenocarcinoma
+tp53tg1	sars cov2
+tp53tg1	triple negative breast cancer
+tp73-as1	acute myeloid leukemia
+tp73-as1	astrocytoma
+tp73-as1	atherosclerosis
+tp73-as1	breast cancer
+tp73-as1	cervical cancer
+tp73-as1	cholangiocarcinoma
+tp73-as1	clear cell renal cell carcinoma
+tp73-as1	colorectal cancer
+tp73-as1	epithelial ovarian cancer
+tp73-as1	esophageal cancer
+tp73-as1	esophagus squamous cell carcinoma
+tp73-as1	gastric cancer
+tp73-as1	glioblastoma
+tp73-as1	glioblastoma multiforme
+tp73-as1	hepatocellular carcinoma
+tp73-as1	lung adenocarcinoma
+tp73-as1	lung non small cell carcinoma
+tp73-as1	multiple myeloma
+tp73-as1	nasopharynx carcinoma
+tp73-as1	osteosarcoma
+tp73-as1	pancreatic cancer
+tp73-as1	pancreatic ductal adenocarcinoma
+tp73-as1	prostate cancer
+tp73-as1	renal cell carcinoma
+tp73-as1	retinoblastoma
+tp73-as1	triple negative breast cancer
+tp73-as1	urinary bladder cancer
+tpt1-as1	breast cancer
+tpt1-as1	cervical cancer
+tpt1-as1	colorectal cancer
+tpt1-as1	epithelial ovarian cancer
+tpt1-as1	esophageal cancer
+tpt1-as1	gastric cancer
+tpt1-as1	glioma
+tpt1-as1	liver cancer
+tpt1-as1	neuroblastoma
+tpt1-as1	osteoarthritis
+tpt1-as1	pancreatic ductal adenocarcinoma
+traf3ip2-as1	alzheimer disease
+traf3ip2-as1	astrocytoma
+traf3ip2-as1	esophageal cancer
+traf3ip2-as1	gastric cancer
+traf3ip2-as1	glioma
+ttc28-as1	astrocytoma
+ttc28-as1	diabetic nephropathy
+ttc28-as1	esophageal cancer
+ttc28-as1	gastric cancer
+ttc28-as1	glioblastoma multiforme
+ttc28-as1	glioma
+ttc28-as1	systemic lupus erythematosus
+ttn-as1	breast cancer
+ttn-as1	cervical cancer
+ttn-as1	cholangiocarcinoma
+ttn-as1	colorectal cancer
+ttn-as1	diabetic nephropathy
+ttn-as1	endometrial cancer
+ttn-as1	esophageal cancer
+ttn-as1	esophagus squamous cell carcinoma
+ttn-as1	gallbladder carcinoma
+ttn-as1	gastric cancer
+ttn-as1	glioblastoma
+ttn-as1	glioma
+ttn-as1	hepatocellular carcinoma
+ttn-as1	lung adenocarcinoma
+ttn-as1	lung non small cell carcinoma
+ttn-as1	melanoma
+ttn-as1	oral squamous cell carcinoma
+ttn-as1	osteosarcoma
+ttn-as1	ovarian cancer
+ttn-as1	pancreatic cancer
+ttn-as1	papillary thyroid carcinoma
+ttn-as1	prostate cancer
+ttn-as1	triple negative breast cancer
+ttty15	astrocytoma
+ttty15	cardiovascular system disease
+ttty15	colorectal cancer
+ttty15	esophageal cancer
+ttty15	esophagus squamous cell carcinoma
+ttty15	lung non small cell carcinoma
+ttty15	prostate cancer
+tug1	acute myeloid leukemia
+tug1	atherosclerosis
+tug1	autism spectrum disorder
+tug1	bladder carcinoma
+tug1	bladder urothelial carcinoma
+tug1	breast cancer
+tug1	cervical cancer
+tug1	cholangiocarcinoma
+tug1	clear cell renal cell carcinoma
+tug1	colon cancer
+tug1	colorectal cancer
+tug1	diabetes mellitus
+tug1	diabetic nephropathy
+tug1	diffuse large b cell lymphoma
+tug1	endometrial cancer
+tug1	epithelial ovarian cancer
+tug1	esophageal cancer
+tug1	esophagus squamous cell carcinoma
+tug1	gallbladder cancer
+tug1	gallbladder carcinoma
+tug1	gastric cancer
+tug1	glioblastoma
+tug1	glioma
+tug1	hepatoblastoma
+tug1	hepatocellular cancer
+tug1	hepatocellular carcinoma
+tug1	hypertension
+tug1	intervertebral disc degeneration
+tug1	intrahepatic cholangiocarcinoma
+tug1	ischemic stroke
+tug1	laryngeal cancer
+tug1	laryngeal squamous cell carcinoma
+tug1	lung adenocarcinoma
+tug1	lung non small cell carcinoma
+tug1	lung squamous cell carcinoma
+tug1	malignant melanoma
+tug1	multiple myeloma
+tug1	nasopharyngeal carcinoma
+tug1	nasopharynx carcinoma
+tug1	oesophageal squamous cell cancer
+tug1	oral squamous cell carcinoma
+tug1	osteoarthritis
+tug1	osteosarcoma
+tug1	pancreatic cancer
+tug1	pancreatic ductal adenocarcinoma
+tug1	papillary thyroid carcinoma
+tug1	parkinson disease
+tug1	pre eclampsia
+tug1	prostate cancer
+tug1	renal clear cell carcinoma
+tug1	sepsis
+tug1	stomach cancer
+tug1	systemic lupus erythematosus
+tug1	tongue squamous cell carcinoma
+tug1	triple negative breast cancer
+tug1	urinary bladder cancer
+tug1	urothelial cancer
+uhrf1	colon cancer
+uhrf1	colorectal cancer
+uhrf1	hepatocellular carcinoma
+vim-as1	astrocytoma
+vim-as1	breast cancer
+vim-as1	colorectal cancer
+vim-as1	diabetic retinopathy
+vim-as1	endometrial cancer
+vim-as1	esophageal cancer
+vim-as1	gastric cancer
+vim-as1	glioblastoma
+vim-as1	glioma
+vim-as1	lung adenocarcinoma
+vim-as1	pre eclampsia
+wac-as1	alzheimer disease
+wac-as1	glioma
+wac-as1	hepatocellular carcinoma
+wasir2	esophageal cancer
+wasir2	glioblastoma
+wasir2	lung adenocarcinoma
+wasir2	urinary bladder cancer
+xist	acute lymphoblastic leukemia
+xist	acute myeloid leukemia
+xist	alzheimer disease
+xist	atherosclerosis
+xist	bladder carcinoma
+xist	breast cancer
+xist	cervical cancer
+xist	cervical squamous cell carcinoma
+xist	colon cancer
+xist	colorectal cancer
+xist	coronary artery disease
+xist	diabetes mellitus
+xist	diabetic nephropathy
+xist	duchenne muscular dystrophy
+xist	endometriosis
+xist	epithelial ovarian cancer
+xist	esophageal cancer
+xist	esophagus squamous cell carcinoma
+xist	gastric cancer
+xist	glioblastoma
+xist	glioma
+xist	heart failure
+xist	hepatocellular cancer
+xist	hepatocellular carcinoma
+xist	intervertebral disc degeneration
+xist	kidney cortex necrosis
+xist	laryngeal squamous cell carcinoma
+xist	liver cancer
+xist	lung adenocarcinoma
+xist	lung cancer
+xist	lung non small cell carcinoma
+xist	malignant melanoma
+xist	melanoma
+xist	metabolic syndrome
+xist	multiple sclerosis
+xist	myocardial infarction
+xist	nasopharyngeal carcinoma
+xist	nasopharynx carcinoma
+xist	neuroblastoma
+xist	oral squamous cell carcinoma
+xist	osteoarthritis
+xist	osteoporosis
+xist	osteosarcoma
+xist	pancreatic cancer
+xist	papillary thyroid carcinoma
+xist	parkinson disease
+xist	polycystic ovary syndrome
+xist	prostate cancer
+xist	renal cell carcinoma
+xist	retinoblastoma
+xist	rheumatoid arthritis
+xist	stomach cancer
+xist	systemic lupus erythematosus
+xist	triple negative breast cancer
+xist	urinary bladder cancer
+xxbac-b461k10.4	thyroid cancer
+xxbac-bpg300a18.13	esophageal cancer
+z84812.4	esophageal cancer
+zbed3-as1	astrocytoma
+zbed3-as1	breast cancer
+zbed3-as1	esophageal cancer
+zbed3-as1	gastric cancer
+zbed3-as1	melanoma
+zfas1	acute myeloid leukemia
+zfas1	acute promyelocytic leukemia
+zfas1	atherosclerosis
+zfas1	bladder carcinoma
+zfas1	breast cancer
+zfas1	cervical cancer
+zfas1	cholangiocarcinoma
+zfas1	clear cell renal cell carcinoma
+zfas1	colon cancer
+zfas1	colorectal cancer
+zfas1	diabetes mellitus
+zfas1	endometrial carcinoma
+zfas1	epithelial ovarian cancer
+zfas1	esophagus squamous cell carcinoma
+zfas1	gastric cancer
+zfas1	glioma
+zfas1	head and neck squamous cell carcinoma
+zfas1	hepatoblastoma
+zfas1	hepatocellular cancer
+zfas1	hepatocellular carcinoma
+zfas1	hirschsprung disease
+zfas1	ischemic stroke
+zfas1	lung adenocarcinoma
+zfas1	lung non small cell carcinoma
+zfas1	melanoma
+zfas1	nasopharyngeal carcinoma
+zfas1	nasopharynx carcinoma
+zfas1	osteoarthritis
+zfas1	osteosarcoma
+zfas1	pancreatic cancer
+zfas1	papillary thyroid carcinoma
+zfas1	parkinson disease
+zfas1	polycystic ovary syndrome
+zfas1	prostate cancer
+zfas1	pulmonary fibrosis
+zfas1	rheumatoid arthritis
+zfas1	sepsis
+zfas1	stomach cancer
+zfas1	t cell acute lymphoblastic leukemia
+zfas1	triple negative breast cancer
+zfas1	urinary bladder cancer
+znf252p-as1	astrocytoma
+znf252p-as1	esophageal cancer
+znf252p-as1	hepatocellular carcinoma
+znf252p-as1	lung adenocarcinoma
+znf252p-as1	prostate cancer
+znf503-as2	esophageal cancer
+znf503-as2	thyroid cancer
+znf674-as1	gastric cancer
+znf674-as1	glioblastoma
+znf674-as1	hepatocellular cancer
+znf674-as1	hepatocellular carcinoma
+znf674-as1	lung non small cell carcinoma
+znf674-as1	sars cov2
+znf674-as1	thyroid cancer
+znf883	esophageal cancer
+znf883	thyroid cancer
+znrd1-as1	endometrial cancer
+znrd1-as1	lung cancer
+zranb2-as2	esophageal cancer
+zranb2-as2	thyroid cancer

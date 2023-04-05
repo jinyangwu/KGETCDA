@@ -1,0 +1,106 @@
+akt3	hirschsprung disease
+cdk6	chronic thromboembolic pulmonary hypertension
+crkl	chronic thromboembolic pulmonary hypertension
+e2f1	cardiac senescence
+fak	cardiac senescence
+has-mir-203	osteoporosis
+hif1a	cardiac senescence
+hsa-mir-10a-5p	hypertension
+hsa-mir-1273g-3p	hypertension
+hsa-mir-1273g-3p	hypertensive
+hsa-mir-130a-3p	coronary artery disease
+hsa-mir-138-5p	leukemia
+hsa-mir-146a-5p	crohn disease
+hsa-mir-146b-5p	crohn disease
+hsa-mir-182-5p	crohn disease
+hsa-mir-30c-1-3p	leukemia
+hsa-mir-328-3p	leukemia
+hsa-mir-3614-3p	type 2 diabetes mellitus
+hsa-mir-496	acute myeloid leukemia
+hsa-mir-498	type 2 diabetes mellitus
+hsa-mir-501-5p	type 2 diabetes mellitus
+hsa-mir-5095	hypertension
+hsa-mir-5095	hypertensive
+hsa-mir-5096	hypertension
+hsa-mir-5096	hypertensive
+hsa-mir-522-3p	primary biliary cholangitis
+hsa-mir-571	leukemia
+hsa-mir-619-5p	hypertension
+hsa-mir-619-5p	hypertensive
+hsa-mir-637	essential hypertension
+hsa-mir-6807-3p	hypertension
+hsa-mir-6807-3p	hypertensive
+hsa-mir-892b	leukemia
+hsa-mir-940	chronic thromboembolic pulmonary hypertension
+hsa-mir-942-5p	chronic thromboembolic pulmonary hypertension
+hsa-mir-943	primary biliary cholangitis
+id-1	cardiac senescence
+let-7g-5p	rheumatoid arthritis
+mef2a	vascular endothelial dysfunction
+mir-107	atherosclerosis
+mir-122	alcoholic liver disease
+mir-124	cardiovascular disease
+mir-1248	multiple sclerosis
+mir-1252-5p	temporal lobe epilepsy
+mir-125a-3p	systemic lupus erythematous
+mir-127-5p	glucocorticoid-induced osteonecrosis of femoral head
+mir-130a-3p	coronary artery disease
+mir-1324	hirschsprung disease
+mir-136	osteoarthritis
+mir-138-5p	osteoarthritis
+mir-143	acute ischemic stroke
+mir-150	lupus nephritis
+mir-150-5p	hirschsprung disease
+mir-153-5p	acute myeloid leukemia
+mir-155	temporal lobe epilepsy
+mir-17-3p	intervertebral disc degeneration
+mir-181	acute myeloid leukemia
+mir-183-5p-xiap	acute myeloid leukemia
+mir-184	diabetic retinopathy
+mir-184	lymphangiogenesis
+mir-185	diabetic nephropathy
+mir-193b	osteoarthritis
+mir-197.	diabetes mellitus
+mir-1972	hepatic steatosis
+mir-198	malignant melanoma
+mir-19a	aortic aneurysm
+mir-200c	intervertebral disc degeneration
+mir-203	acute myeloid leukemia
+mir-204	rheumatoid arthritis
+mir-204-5p	diabetic cataract
+mir-217	osteoarthritis
+mir-217	retinal neurodegeneration
+mir-221	carotid plaque rupture
+mir-26a	osteoarthritis
+mir-26b-5p	cardiac fibrosis
+mir-29b	chronic myeloid leukemia
+mir-29b	systemic lupus erythematosus
+mir-30b-3p	ebola virus disease
+mir-323a-5p	rheumatoid arthritis
+mir-335-3p	ischemic stroke
+mir-34	sciatic nerve injury
+mir-34a	hepatic steatosis
+mir-34a	hepatocellular steatosis
+mir-431	intervertebral disc degeneration
+mir-455-3p	rheumatoid arthritis
+mir-485-5p	temporal lobe epilepsy
+mir-488-3p	hirschsprung disease
+mir-519d-3p	diabetes retinopathy
+mir-519d-3p	osteoarthritis
+mir-615-5p	diabetic retinopathy
+mir-615-5p	vascular endothelial dysfunction
+mir-636	osteoarthritis
+mir-646	osteoarthritis
+mir-661	rheumatoid arthritis
+mir-665	osteoarthritis
+mir-7	alzheimer
+mir-766	multiple sclerosis
+mir-876-3p	rheumatoid arthritis
+mir-9-5p	irradiated hepatic stellate cell
+mir-9-5p	liver fibrosis
+mir-939	coronary atherosclerotic heart disease
+mir-98	postmenopausal osteoporosis
+mmp13	osteoarthritis
+nampt	osteoarthritis
+sa-mir-940	chronic thromboembolic pulmonary hypertension
+ube2a	alzheimer

@@ -1,0 +1,5 @@
+circ-miRNA	0
+miRNA-disease	1
+miRNA-lncRNA	2
+lncRNA-disease	3
+circ-disease	4

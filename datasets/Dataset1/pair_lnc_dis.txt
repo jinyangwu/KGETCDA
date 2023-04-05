@@ -1,0 +1,527 @@
+1810034e14rik	ischemic stroke
+ac007032.1	proliferative vitreo retinopathy
+ac020928.1	leukoaraiosis
+ac037198.2	proliferative vitreo retinopathy
+ac111653.1	sciatic nerve injury
+af119885	primary great saphenous vein varicosities
+afap1-as1	hirschsprung disease
+afap1-as1	pre-eclampsia
+agap2-as1	pre-eclampsia
+aim1-3	type 2 diabetes mellitus
+ak012226	hepatocellular steatosis
+ak021444	primary great saphenous vein varicosities
+ak077216	diabetes retinopathy
+ak085865	asthma
+ak094457	hypertensive
+ak131850	aortic aneurysm
+ak136714	atherosclerosis
+al929472.2	proliferative vitreo retinopathy
+ancr	osteoarthritis
+ancr	postmenopausal osteoporosis
+anril	acute ischemic stroke
+anril	acute lymphoblastic leukemia
+anril	coronary artery disease
+anril	crohn disease
+anril	ischemic stroke
+anril	osteoarthritis
+anril	systemic lupus erythematous
+anril	type 2 diabetes mellitus
+apf	myocardial infarction
+appat	atherosclerosis
+atb	malignant melanoma
+atb	osteoarthritis
+awpph	coronary artery disease
+balr-2	leukemia
+bancr	atherosclerosis
+bancr	coronary artery disease
+bancr	diabetes retinopathy
+bancr	malignant melanoma
+basp1-as1	major depressive disorder
+bat5	coronary artery disease
+bc088259	sciatic nerve injury
+bc088327	sciatic nerve injury
+blacat2	lymphangiogenesis
+blnc1	diabetic nephropathy
+bmncr	osteoporosis
+c15orf51	temporal lobe epilepsy
+c6orf176	temporal lobe epilepsy
+caif	myocardial infarction
+caif	osteoarthritis
+casc11	atherosclerosis
+casc11	coronary artery disease
+casc11	postmenopausal osteoporosis
+casc15	acute lymphoblastic leukemia
+casc15	leukemia
+casc2	active pulmonary tuberculosis
+casc2	diabetic nephropathy
+casc2	malignant melanoma
+casc2	metabolism-related diseases
+casc2	osteoarthritis
+casc2	type 2 diabetes mellitus
+casc7	heart failure
+casc8	active pulmonary tuberculosis
+ccat1	inflammatory bowel disease
+ccdc26	acute myeloid leukemia
+ccdc26	leukemia
+cdkn2a	ischemic stroke
+chrf	heart failure
+cir	osteoarthritis
+coromarker	coronary artery disease
+crnde	aortic aneurysm
+crnde	heart failure
+crnde	postmenopausal osteoporosis
+ctbp1-as2	diabetic nephropathy
+ctbp1-as2	osteoarthritis
+ctc-471j1.2	systemic lupus erythematous
+ctepha1	chronic thromboembolic pulmonary hypertension
+cyp4b1-ps1-001	diabetic nephropathy
+dancr	diabetes mellitus
+dancr	gestational diabetes mellitus
+dancr	osteoporosis
+dancr	postmenopausal osteoporosis
+dilc	osteoarthritis
+dilc	rheumatoid arthritis
+dio3os	inflammatory bowel disease
+dlx6os1	diabetic nephropathy
+dq786243	crohn disease
+dq786243	inflammatory bowel disease
+draic	hirschsprung disease
+ensmust00000147869	diabetic nephropathy
+enst00000416361	coronary artery disease
+enst00000422183	pulmonary tuberculosis
+enst00000448942	systemic lupus erythematous
+enst00000501122.2	systemic lupus erythematous
+enst00000517573	major depressive disorder
+enst00000550337.	type 2 diabetes mellitus
+enst00000566208	major depressive disorder
+enst00000570366	pulmonary tuberculosis
+enst00000604411.1	systemic lupus erythematous
+enst00113	atherosclerosis
+faf1	intervertebral disc degeneration
+fal1	hirschsprung disease
+fam183b	temporal lobe epilepsy
+fam74a3	temporal lobe epilepsy
+fam83h-as1	intervertebral disc degeneration
+fas-as1	osteoarthritis
+fer1l4	osteoarthritis
+foxc2-as1	primary great saphenous vein varicosities
+foxd2-as1	osteoarthritis
+foxd3-as1	malignant melanoma
+ftx	ovarian endometriosis
+g36810	primary great saphenous vein varicosities
+gas-5	osteoarthritis
+gas5	active pulmonary tuberculosis
+gas5	acute ischemic stroke
+gas5	aortic aneurysm
+gas5	atherosclerosis
+gas5	cardiac fibrosis
+gas5	coronary artery disease
+gas5	diabetic nephropathy
+gas5	intervertebral disc degeneration
+gas5	ischemic stroke
+gas5	lymphangiogenesis
+gas5	malignant melanoma
+gas5	multiple sclerosis
+gas5	myocardial infarction
+gas5	osteoporosis
+gas5	primary great saphenous vein varicosities
+gas5	rheumatoid arthritis
+gas5	systemic lupus erythematous
+gas5	type 2 diabetes mellitus
+gasl1	heart failure
+gdep	temporal lobe epilepsy
+gm15645	diabetic nephropathy
+gm2691	myocardial infarction
+gm4419	diabetic nephropathy
+gm5524	diabetic nephropathy
+gpr19	myocardial infarction
+h19	acne
+h19	aortic aneurysm
+h19	atherosclerosis
+h19	cardiac fibrosis
+h19	coronary artery disease
+h19	diabetes retinopathy
+h19	diabetic retinopathy
+h19	hepatic steatosis
+h19	hepatocellular steatosis
+h19	intervertebral disc degeneration
+h19	ischemic stroke
+h19	liver fibrosis
+h19	malignant melanoma
+h19	metabolism-related diseases
+h19	moyamoya disease
+h19	myocardial infarction
+h19	myocardial senescence
+h19	osteoarthritis
+h19	ovarian endometriosis
+h19	primary biliary cholangitis
+h19	repeated implantation failure
+h19	type 2 diabetes mellitus
+h2k2	diabetic nephropathy
+ha117	hirschsprung disease
+hand2-as1	chronic myeloid leukemia
+hcg18	intervertebral disc degeneration
+hcg22	kawasaki disease
+heat2	heart failure
+hist1h2ag-6	type 2 diabetes mellitus
+hla-drb6	temporal lobe epilepsy
+hn12	hirschsprung disease
+hnf1a-as1	lymphangiogenesis
+hnf1a-as1	multiple sclerosis
+hotair	aortic aneurysm
+hotair	coronary artery disease
+hotair	intervertebral disc degeneration
+hotair	malignant melanoma
+hotair	multiple sclerosis
+hotair	t2dm with depression
+hotairm1	acute myeloid leukemia
+hottip	acute myeloid leukemia
+hottip	diabetes retinopathy
+hottip	diabetic retinopathy
+hottip	hematopoiesis
+hottip	hirschsprung disease
+hoxa-as3	atherosclerosis
+hulc	acute ischemic stroke
+hulc	hepatocellular steatosis
+hulc	myocardial infarction
+humt	lymphangiogenesis
+ifng-as1	coronary artery disease
+il21r-as1	coronary artery disease
+kcnq1ot1	acute myeloid leukemia
+kcnq1ot1	atherosclerosis
+kcnq1ot1	diabetic cataract
+kcnq1ot1	diabetic nephropathy
+kcnq1ot1	heart failure
+kcnq1ot1	myocardial infarction
+kif9-as1	inflammatory bowel disease
+klf3-as1	myocardial infarction
+lamp5-as1	leukemia
+lbx2-as1	aortic aneurysm
+linc-maf-4	multiple sclerosis
+linc-pint	glucocorticoid-induced osteonecrosis of femoral head
+linc-pint	type 2 diabetes mellitus
+linc-scrg1	liver fibrosis
+linc00152	pulmonary tuberculosis
+linc00176	systemic lupus erythematous
+linc00261	pre-eclampsia
+linc00265	aortic aneurysm
+linc00311	osteoporosis
+linc00324	intervertebral disc degeneration
+linc00513	systemic lupus erythematous
+linc00518	malignant melanoma
+linc00520	malignant melanoma
+linc00599	glucocorticoid-induced osteonecrosis of femoral head
+linc00641	intervertebral disc degeneration
+linc00968	diabetic nephropathy
+linc01121	intervertebral disc degeneration
+linc01272	inflammatory bowel disease
+linc0597	systemic lupus erythematous
+linc8986	systemic lupus erythematous
+lincrna-p21	atherosclerosis
+link-a	diabetic nephropathy
+lnc-dc	multiple sclerosis
+lnc-dc	systemic lupus erythematous
+lnc-fam76b-4:1	pulmonary tuberculosis
+lnc-ghrl-3:2	type 2 diabetes mellitus
+lnc-ghrl-3:3	type 2 diabetes mellitus
+lnc-hnf1b-3:1	pulmonary tuberculosis
+lnc-hnrnpu-1:7	pulmonary tuberculosis
+lnc-isg20	diabetic nephropathy
+lnc-lfar1-anril	liver fibrosis
+lnc3643	systemic lupus erythematous
+lnc5150	systemic lupus erythematous
+lnc7514	systemic lupus erythematous
+lnc_000052	postmenopausal osteoporosis
+lncrna-1810034e14rik	acute ischemic stroke
+lncrna-cir	facet joint osteoarthritis
+lncrna-cir	osteoarthritis
+lncrna-fa2h-2-mlkl	atherosclerosis
+lncrna-heim	liver fibrosis
+lncrna-klf3-as1	osteoarthritis
+lncrna-meg3	atherosclerosis
+lncrna-nr_104160	hypertensive
+lncrna-p21	osteoarthritis
+lncrnacnn3-206	crohn disease
+lnctmem235	glucocorticoid-induced osteonecrosis of femoral head
+loc100507600	hirschsprung disease
+loc101926975	hirschsprung disease
+loc103691771	silicosis
+loc149620	temporal lobe epilepsy
+loc152742	pulmonary tuberculosis
+loc285194	atherosclerosis
+loc400891	temporal lobe epilepsy
+loc554202	hirschsprung disease
+loc646616	essential hypertension
+loxl1-as1	osteoarthritis
+loxl1-as1	postmenopausal osteoporosis
+ly86-as1	type 2 diabetes mellitus
+m6a	myocardial senescence
+magi2-as3	alzheimer
+magi2-as3	intervertebral disc degeneration
+magi2-as3	multiple system atrophy
+malat	type 2 diabetes mellitus
+malat-1	systemic lupus erythematous
+malat1	asthma
+malat1	atherosclerosis
+malat1	cardiac senescence
+malat1	cardiovascular disease
+malat1	chronic thromboembolic pulmonary hypertension
+malat1	coronary artery disease
+malat1	coronary atherosclerotic heart disease
+malat1	crohn disease
+malat1	diabetes mellitus
+malat1	diabetes retinopathy
+malat1	diabetic cataract
+malat1	diabetic nephropathy
+malat1	diabetic retinopathy
+malat1	gestational diabetes mellitus
+malat1	glucocorticoid-induced osteonecrosis of femoral head
+malat1	intervertebral disc degeneration
+malat1	ischemic stroke
+malat1	malignant melanoma
+malat1	moyamoya disease
+malat1	multiple sclerosis
+malat1	myocardial infarction
+malat1	osteoarthritis
+malat1	osteoporosis
+malat1	ovarian endometriosis
+malat1	t2dm with depression
+malat1	temporal lobe epilepsy
+malat1	type 2 diabetes mellitus
+meg3	active pulmonary tuberculosis
+meg3	acute ischemic stroke
+meg3	acute myeloid leukemia
+meg3	alzheimer
+meg3	asthma
+meg3	cardiac fibrosis
+meg3	chronic myeloid leukemia
+meg3	diabetes mellitus
+meg3	diabetes retinopathy
+meg3	diabetic retinopathy
+meg3	gestational diabetes mellitus
+meg3	hepatic steatosis
+meg3	hepatocellular steatosis
+meg3	hirschsprung disease
+meg3	ischemic stroke
+meg3	malignant melanoma
+meg3	osteoarthritis
+meg3	osteoporosis
+meg3	postmenopausal osteoporosis
+meg3	rheumatoid arthritis
+meg3	tuberculosis
+meg8	diabetes mellitus
+meg8	diabetic nephropathy
+meg8	gestational diabetes mellitus
+mfi2-as1	osteoarthritis
+mhrt	heart failure
+miat	acute ischemic stroke
+miat	atherosclerosis
+miat	cardiac fibrosis
+miat	coronary artery disease
+miat	coronary atherosclerotic heart disease
+miat	diabetic nephropathy
+miat	moyamoya disease
+miat	myocardial infarction
+miat	systemic lupus erythematous
+miat	type 2 diabetes mellitus
+mical2	liver fibrosis
+mir22hg	osteoarthritis
+mir31hg	hirschsprung disease
+mir4435-2hg	osteoarthritis
+mir99ahg	active pulmonary tuberculosis
+mirt1	myocardial infarction
+mirt2	inflammatory bowel disease
+mrak048635_p1	hypertensive
+msc-as1	osteoporosis
+n1lr	ischemic stroke
+nalt	acute lymphoblastic leukemia
+nbr2	temporal lobe epilepsy
+ncrna00259	temporal lobe epilepsy
+neat1	active pulmonary tuberculosis
+neat1	active tuberculosis
+neat1	acute ischemic stroke
+neat1	acute myeloid leukemia
+neat1	aortic aneurysm
+neat1	cardiac senescence
+neat1	coronary atherosclerotic heart disease
+neat1	diabetic cataract
+neat1	diabetic nephropathy
+neat1	hepatocellular steatosis
+neat1	herpes simplex virus 1 infection
+neat1	intervertebral disc degeneration
+neat1	liver fibrosis
+neat1	lupus nephritis
+neat1	malignant melanoma
+neat1	metabolism-related diseases
+neat1	osteoarthritis
+neat1	rheumatoid arthritis
+neat1	systemic lupus erythematous
+neat1	tuberculosis
+neat1	type 2 diabetes mellitus
+nkila	osteoarthritis
+nkila	type 2 diabetes mellitus
+nonhsag045500	major depressive disorder
+nonhsag053901	diabetic nephropathy
+nonhsat034045	major depressive disorder
+nonhsat067134.2	active tuberculosis
+nonhsat067134.2	pulmonary tuberculosis
+nonhsat073641	chronic thromboembolic pulmonary hypertension
+nonhsat078957.2	active tuberculosis
+nonhsat078957.2	pulmonary tuberculosis
+nonhsat101518.2	active tuberculosis
+nonhsat101518.2	pulmonary tuberculosis
+nonhsat142707	major depressive disorder
+nonhsat148822.1	active tuberculosis
+nonhsat148822.1	pulmonary tuberculosis
+nonratt021972	type 2 diabetes mellitus
+norad	atherosclerosis
+norad	glucocorticoid-induced osteonecrosis of femoral head
+nr_003142	pulmonary tuberculosis
+nr_027830	primary great saphenous vein varicosities
+nr_027927	primary great saphenous vein varicosities
+nr_033515	diabetic nephropathy
+nr_038221	pulmonary tuberculosis
+nr_038323	diabetic nephropathy
+nr_104160	essential hypertension
+nr_105053	pulmonary tuberculosis
+nrf	myocardial infarction
+nron	heart failure
+ntt	rheumatoid arthritis
+oip5-as1	intervertebral disc degeneration
+oip5-as1	osteoarthritis
+pacer	active pulmonary tuberculosis
+pacer	osteoarthritis
+pandar	acute myeloid leukemia
+pandar	type 2 diabetes mellitus
+part1	intervertebral disc degeneration
+part1	osteoarthritis
+pced1b-as1	active pulmonary tuberculosis
+pced1b-as1	active tuberculosis
+pcfl	myocardial infarction
+pcgem1	osteoarthritis
+pfl	cardiac fibrosis
+picsar	rheumatoid arthritis
+plscr4	heart failure
+prins	diabetic nephropathy
+pro1768	temporal lobe epilepsy
+pvt1	asthma
+pvt1	diabetic cataract
+pvt1	osteoarthritis
+rapia	atherosclerosis
+rmst	hirschsprung disease
+rmst	myocardial infarction
+rncr3	moyamoya disease
+rp11-414j4	temporal lobe epilepsy
+rp11-679b19.1	crohn disease
+rp4-576h24.2	leukemia
+rpph1	diabetic nephropathy
+scarna10	liver fibrosis
+sencr	aortic aneurysm
+serpinb9p1	acute ischemic stroke
+serpinb9p1	ischemic stroke
+slc20a1	intervertebral disc degeneration
+sled1	proliferative vitreo retinopathy
+snhg1	acute myeloid leukemia
+snhg1	ischemic stroke
+snhg1	osteoarthritis
+snhg1	postmenopausal osteoporosis
+snhg12	hypertensive
+snhg14	ischemic stroke
+snhg14	osteoarthritis
+snhg16	atherosclerosis
+snhg16	diabetic nephropathy
+snhg16	osteoarthritis
+snhg16	sciatic nerve injury
+snhg17	gestational diabetes mellitus
+snhg17	type 2 diabetes mellitus
+snhg20	hepatocellular steatosis
+snhg3	acute myeloid leukemia
+snhg4	ovarian endometriosis
+snhg5	acute myeloid leukemia
+snhg5	aortic aneurysm
+snhg5	chronic myeloid leukemia
+snhg5	osteoarthritis
+snhg7	liver fibrosis
+snhg7	osteoarthritis
+snhg8	ischemic stroke
+snhg8	myocardial infarction
+snhg9	osteoarthritis
+socs2-as1	kawasaki disease
+sox2	ischemic stroke
+sox2-ot	heart failure
+sox2ot	aortic aneurysm
+sox2ot	diabetic nephropathy
+sox2ot	gestational diabetes mellitus
+sra	hepatocellular steatosis
+sra	kawasaki disease
+sra1	ovarian endometriosis
+t-all-r-lncr1	acute lymphoblastic leukemia
+t199678	multiple system atrophy
+tcf7	diabetic nephropathy
+tcons_00019174	major depressive disorder
+tcons_00483150	systemic lupus erythematous
+tdrg1	kawasaki disease
+tdrg1	ovarian endometriosis
+terc	osteoporosis
+thumpd3-as1	osteoarthritis
+tincr	pre-eclampsia
+tonsl-as1	coronary artery disease
+tp53tg1	metabolism-related diseases
+trpc7-as1	intervertebral disc degeneration
+trpm2-as	multiple sclerosis
+ttc28-as1	type 2 diabetes mellitus
+ttty1	temporal lobe epilepsy
+ttty11	temporal lobe epilepsy
+ttty15	cardiovascular disease
+ttty21	temporal lobe epilepsy
+ttty3	temporal lobe epilepsy
+tug1	atherosclerosis
+tug1	diabetic nephropathy
+tug1	hypertensive
+tug1	intervertebral disc degeneration
+tug1	malignant melanoma
+tug1	osteoporosis
+tug1	pre-eclampsia
+tug1	systemic lupus erythematous
+tug1	type 2 diabetes mellitus
+twf1	coronary artery disease
+u90926	herpes simplex virus 1 infection
+uc.345-	primary great saphenous vein varicosities
+uc.48+	pulmonary tuberculosis
+uc001ykl.1	systemic lupus erythematous
+uca1	acute ischemic stroke
+uca1	chronic myeloid leukemia
+uca1	ovarian endometriosis
+uca1	pre-eclampsia
+ufc1	osteoarthritis
+veal2	diabetes retinopathy
+vestar	lymphangiogenesis
+vinas	atherosclerosis
+vps9d1-as1	acute lymphoblastic leukemia
+vps9d1-as1	acute myeloid leukemia
+wt1-as	alzheimer
+wtapp1	chronic thromboembolic pulmonary hypertension
+xist	alzheimer
+xist	aortic aneurysm
+xist	atherosclerosis
+xist	coronary artery disease
+xist	diabetic cataract
+xist	diabetic nephropathy
+xist	gestational diabetes mellitus
+xist	intervertebral disc degeneration
+xist	ischemic stroke
+xist	myocardial infarction
+xist	osteoarthritis
+xist	rheumatoid arthritis
+xist	systemic lupus erythematous
+xloc_035088	acute ischemic stroke
+zeb1-as1	acute lymphoblastic leukemia
+zeb1-as1	diabetic nephropathy
+zeb2-as1	acute myeloid leukemia
+zeb2-as1	hematopoiesis
+zeb2-as1	pre-eclampsia
+zfas1	atherosclerosis
+zfas1	irradiated hepatic stellate cell
+zfas1	myocardial infarction
+zfas1	rheumatoid arthritis
+zfas1	temporal lobe epilepsy
