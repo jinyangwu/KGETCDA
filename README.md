@@ -7,7 +7,7 @@ This repo is the PyTorch implementation of "KGETCDA: an efficient representation
 
 **KGETCDA** consistently achieves remarkable performance on two datasets (**Dataset1**---a small dataset used in previous works; **Dataset2**---a larger heterogeneous dataset constructed by us)
 
-We also provide a user-friendly interactive web-based platform (named **HNRBase**), which is publicly available at [https://lab-fly.site/KGETCDA](http://39.106.16.168:8006/).
+We also provide a user-friendly interactive web-based platform (named **HNRBase**), which is publicly available at [https://lab-fly.site/KGETCDA/](https://lab-fly.site/KGETCDA/).
 
 ## Requirements
 
@@ -78,7 +78,7 @@ We use two datasets here, and provide 4 entities (**circRNA**, **miRNA**, **lncR
 ## Usage
 You can directly run the above model KGETCDA.
 
-We also recommend users use our KGETCDA Webserver([https://lab-fly.site/KGETCDA](http://39.106.16.168:8006/)), which is user-friendly and easy to use. Consisting of 4 core functions (intelligent search and browse, model prediction, information visualization, and advanced interaction), our web-based platform enables novel visualization, accessible resources and user-friendly interaction. Everyone could upload or typein the candidate circRNAs or diseases of interest in our web without further installation, our backend server will calculate and give the prediction results to the user. Users can also choose to download the predict csv file results.
+We also recommend users use our KGETCDA Webserver([https://lab-fly.site/KGETCDA/](https://lab-fly.site/KGETCDA/)), which is user-friendly and easy to use. Consisting of 4 core functions (intelligent search and browse, model prediction, information visualization, and advanced interaction), our web-based platform enables novel visualization, accessible resources and user-friendly interaction. Everyone could upload or typein the candidate circRNAs or diseases of interest in our web without further installation, our backend server will calculate and give the prediction results to the user. Users can also choose to download the predict csv file results.
 
 ## Compared methods and related papers.
 In this paper, we compare our model with 8 SOTAs including: GMNN2CD, KGANCDA, RNMFLP, AE-RF, DMFCDA, CD-LNLP, RWR, KATZHCDA, which are compared under the same experiment settings. The parameters of the other 8 models maintain consistency with their original papers.
