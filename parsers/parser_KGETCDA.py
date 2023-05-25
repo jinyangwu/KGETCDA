@@ -20,7 +20,7 @@ def parse_args():
                         help='Input data path.')
     
     parser.add_argument('--kg_type', type=str, default='KGET',
-                        help='Specify the type of the kg embeddings from {KGET, TransH, TransD, ConvKB}.')
+                        help='Specify the type of the kg embeddings from {KGET, TransH, TransD, ConvKB, ConvE, HolE, RotatE}.')
     parser.add_argument('--aggregation_type', type=str, default='gcn',
                         help='Specify the type of the aggregation layer from {gcn, graphsage, bi-interaction}.')
 
