@@ -13,7 +13,7 @@ def parse_args():
     parser.add_argument("--gpu", type=int, default=0,
                         help="gpu")
     parser.add_argument('--dataset', nargs='?', default='Dataset1',
-                        help='Dataset to use: Dataset1, Dataset2')
+                        help='Dataset to use: Dataset1, Dataset2, Dataset3')
     parser.add_argument('--fold', nargs='?', type=int, default=1,
                         help='fold to select: 1, 2, 3, 4, 5')
     parser.add_argument('--data_dir', nargs='?', default='./datasets/',
