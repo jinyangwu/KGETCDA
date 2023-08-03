@@ -7,7 +7,7 @@ This repo is the PyTorch implementation of "KGETCDA: an efficient representation
 
 **KGETCDA** consistently achieves remarkable performance on three datasets (**Dataset1**---a small dataset focusing on non-cancer used in previous works; **Dataset2**---a larger heterogeneous dataset constructed by us; **Dataset3**---a small dataset focusing on cancer used in previous works)
 
-We also provide a user-friendly interactive web-based platform (named **HNRBase**), which is publicly available at [http://lab-fly.site/KGETCDA](http://39.106.16.168:8012/).
+We also provide a user-friendly interactive web-based platform (named **HNRBase**), which is publicly available at [http://lab-fly.site/KGETCDA](http://146.56.237.198:8012/).
 
 ## Requirements
 
@@ -78,11 +78,9 @@ We use three datasets here, and provide 4 entities (**circRNA**, **miRNA**, **ln
 
 
 ## Usage
-You can directly run the above model KGETCDA, and the trained model has been released in [zenodo](https://zenodo.org/record/7968756). 
+You can directly run the above model KGETCDA. 
 
-We also recommend users use our KGETCDA Webserver ([http://lab-fly.site/KGETCDA](http://39.106.16.168:8012/)), which is user-friendly and easy to use. Consisting of 4 core functions (intelligent search and browse, model prediction, information visualization, and advanced interaction), our web-based platform enables novel visualization, accessible resources and user-friendly interaction. Everyone could upload or typein the candidate circRNAs or diseases of interest in our web without further installation, our backend server will calculate and give the prediction results to the user. Users can also choose to download the predict csv file results.
-
-Moreover, we have also released the web app in the Docker Hub, and users can use the command `docker pull davinwu/kgetcda:flask` to pull the image, run a container, and obtain the same interaction interfaces.
+We also recommend users use our KGETCDA Webserver ([http://lab-fly.site/KGETCDA](http://146.56.237.198:8012/)), which is user-friendly and easy to use. Consisting of 4 core functions (intelligent search and browse, model prediction, information visualization, and advanced interaction), our web-based platform enables novel visualization, accessible resources and user-friendly interaction. Everyone could upload or typein the candidate circRNAs or diseases of interest in our web without further installation, our backend server will calculate and give the prediction results to the user. Users can also choose to download the predict csv file results.
 
 ## Compared methods and related papers.
 In this paper, we compare our model with 8 SOTAs including: GMNN2CD, KGANCDA, RNMFLP, AE-RF, DMFCDA, CD-LNLP, RWR, KATZHCDA, which are compared under the same experiment settings. The parameters of the other 8 models maintain consistency with their original papers.
