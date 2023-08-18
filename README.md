@@ -111,6 +111,8 @@ In this paper, we compare our model with 8 SOTAs including: GMNN2CD, KGANCDA, RN
 
 ## Citing KGETCDA
 If you use this model, please cite as follows:
+
+```
 @article{10.1093/bib/bbad292,
     author = {Wu, Jinyang and Ning, Zhiwei and Ding, Yidong and Wang, Ying and Peng, Qinke and Fu, Laiyi},
     title = {KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA-disease associations},
@@ -122,3 +124,4 @@ If you use this model, please cite as follows:
     doi = {10.1093/bib/bbad292},
     eprint = {https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbad292/51117888/bbad292.pdf},
 }
+```
