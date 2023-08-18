@@ -1,6 +1,6 @@
 # KGETCDA
 
-This repo is the official PyTorch implementation of [KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA-disease associations](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad292/7242591?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email&login=false)
+This repo is the official PyTorch implementation of ["KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA-disease associations"](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad292/7242591?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email&login=false)
 
 ## Introduction
 **KGETCDA** (**K**nowledge **G**raph **E**ncoder from **T**ransformer for predicting **C**ircRNA-**D**isease **A**ssociations) is an efficient knowledge-based representation learning framework. Built upon knowledge graph and Transformer, KGETCDA can effectively produce high-quality embeddings with accurately captured low-order and high-order interaction information.
@@ -111,18 +111,6 @@ In this paper, we compare our model with 8 SOTAs including: GMNN2CD, KGANCDA, RN
 
 ## Citing KGETCDA
 If you use this model, please cite as follows:
-`
-@article{wu2023kgetcda,
-  title={KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA-disease associations},
-  author={Wu, Jinyang and Ning, Zhiwei and Ding, Yidong and Wang, Ying and Peng, Qinke and Fu, Laiyi},
-  journal={Briefings in Bioinformatics},
-  pages={bbad292},
-  year={2023},
-  publisher={Oxford}
-}
-
-
-
 @article{10.1093/bib/bbad292,
     author = {Wu, Jinyang and Ning, Zhiwei and Ding, Yidong and Wang, Ying and Peng, Qinke and Fu, Laiyi},
     title = {KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA-disease associations},
@@ -134,5 +122,3 @@ If you use this model, please cite as follows:
     doi = {10.1093/bib/bbad292},
     eprint = {https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbad292/51117888/bbad292.pdf},
 }
-
-`
