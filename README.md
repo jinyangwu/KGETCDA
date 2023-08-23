@@ -1,4 +1,4 @@
-# KGETCDA (Briefings in Bioinformatics 2023)
+# KGETCDA
 
 This repo is the official PyTorch implementation of ["KGETCDA: an efficient representation learning framework based on knowledge graph encoder from transformer for predicting circRNA-disease associations"](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad292/7242591?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email&login=false)
 
